@@ -24,7 +24,7 @@ author:
   avatar           : "wenqian_profile.jpg"
   name             : "Wenqian Xing"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # example "Short biography for the left-hand sidebar"
   location         : "Stanford, CA"
   employer         : "Stanford University"
   uri              : # URL
