@@ -22,7 +22,7 @@ Cheng Hua, Arthur J. Swersey, Wenqian Xing
 **[Multi-Priority Patient Transfer under Ambulance
 Offload Delay](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4003735)**  
 Wenqian Xing, Cheng Hua  
-Major revision at *Production and Operations Management*
+Major revision at *Production and Operations Management*  
 *Best Student Paper (2nd Place), INFORMS Conference on Service Science* 2021  
 
 **[NuSC: An Effective Local Search Algorithm for Solving the Set Covering Problem](https://ieeexplore.ieee.org/document/9877844)**  
