@@ -13,9 +13,10 @@ Education
 ======
 * Ph.D in Operations Research, Stanford University, 2028 (expected)
 * M.S. in Operations Research, Columbia University, 2023
+* M.S. in Financial Engineering, Shanghai Jiao Tong University, 2021
 * B.S. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2020
 
-Work experience
+<!--Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -30,18 +31,18 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git-->
   
-Skills
+<!--Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3-->
 
-Publications
+<!--Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -57,7 +58,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
   
 Service and leadership
 ======
