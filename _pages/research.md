@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **[Black-Box Optimization with Implicit Constraints for Public Policy](https://arxiv.org/abs/2310.18449)**  
-Wenqian Xing, Jungho Lee, Chong Liu, Shixiang Zhu  
+Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu  
 *Refereed Paper, INFORMS Optimization Society Conference* 2024  
 
 **[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**  
