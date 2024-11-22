@@ -7,6 +7,26 @@ author_profile: true
 
 {% include base_path %}
 
+Ongoing Works
+------
+
+**Switchback Experiments under Stochastically Monotone Markov Chains**  
+with Jose H. Blanchet, Ramesh Johari, Peter Glynn, Linjia Wu  
+Analyze switchback experiment design under temporal (Markovian) interference modeled by stochastically monotone Markov chains.  
+
+**Experimental Design under Non-stationary Environments**  
+with Ramesh Johari, Tianyi Peng  
+Study experimental design and treatment effect estimation in non-stationary environments modeled as partially observed Markov chains.
+
+**Online Learning for Reward-Driven and Congestion-Aware Service
+Rate Control**  
+with Yue Hu, Anand Kalvit, Vahid Sarhangian  
+Manage the trade-off between unknown stochastic rewards and congestion using an online learning approach.  
+
+
+Publications
+------
+
 **[Black-Box Optimization with Implicit Constraints for Public Policy](https://arxiv.org/abs/2310.18449)**  
 Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu  
 *Refereed Paper, INFORMS Optimization Society Conference* 2024  
