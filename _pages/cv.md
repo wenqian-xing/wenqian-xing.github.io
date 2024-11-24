@@ -12,9 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Operations Research, Stanford University, 2028 (expected)
-* M.S. in Operations Research, Columbia University, 2023
-* M.S. in Financial Engineering, Shanghai Jiao Tong University, 2021
-* B.S. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2020
 
 <!--Work experience
 ======
