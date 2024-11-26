@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-------
-
 
 **Stanford University** (Course Assistant)  
 - OIT 245 Optimization and Simulation Modeling    
