@@ -50,7 +50,7 @@ Major revision at *Production and Operations Management*
 Chuan Luo, Wenqian Xing, Shaowei Cai, Chunming Hu  
 *IEEE Transactions on Cybernetics* 2022  
 
-**[Predictive Job Scheduling under Uncertain Constraints in Cloud Computing](https://www.ijcai.org/proceedings/2021/499)**  
+**[Predictive Job Scheduling under Uncertain Constraints in Cloud Computing](https://www.ijcai.org/proceedings/2021/499)** [[Code]](https://github.com/wenqian-xing/SB-IJCAI-Paper)  
 Dong Hang, Boshi Wang, Bo Qiao, Wenqian Xing, Chuan Luo et al.  
 *International Joint Conferences on Artificial Intelligence (IJCAI)* 2021  
 
