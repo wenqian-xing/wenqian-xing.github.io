@@ -27,12 +27,12 @@ Manage the trade-off between unknown stochastic rewards and congestion using an 
 Publications
 ------
 
-**[Black-Box Optimization with Implicit Constraints for Public Policy](https://arxiv.org/abs/2310.18449)**  
+**[Black-Box Optimization with Implicit Constraints for Public Policy](https://arxiv.org/abs/2310.18449)** [[Code]](https://github.com/wenqian-xing/CageBO)   
 Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu  
 *AAAI Conference on Artificial Intelligence (AAAI)* 2025  
 *Refereed Paper, INFORMS Optimization Society Conference* 2024  
 
-**[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**  
+**[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)** [[Code]](https://github.com/meowoodie/Hyperlattice-Queueing-Model)  
 Shixiang Zhu, Wenqian Xing, Yao Xie  
 
 **[Optimal Unit Locations in Emergency Service Systems with Bayesian Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497957)**  
@@ -46,7 +46,7 @@ Wenqian Xing, Cheng Hua
 Major revision at *Production and Operations Management*  
 *Best Student Paper (2nd Place), INFORMS Conference on Service Science* 2021  
 
-**[NuSC: An Effective Local Search Algorithm for Solving the Set Covering Problem](https://ieeexplore.ieee.org/document/9877844)** [[Open-Source Solver]](https://github.com/chuanluocs/NuSC-Algorithm)  
+**[NuSC: An Effective Local Search Algorithm for Solving the Set Covering Problem](https://ieeexplore.ieee.org/document/9877844)** [[Code]](https://github.com/chuanluocs/NuSC-Algorithm)  
 Chuan Luo, Wenqian Xing, Shaowei Cai, Chunming Hu  
 *IEEE Transactions on Cybernetics* 2022  
 
