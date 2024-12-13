@@ -41,7 +41,7 @@ Cheng Hua, Arthur J. Swersey, Wenqian Xing
 *Best Student Paper (Finalist), POMS International Conference* 2022  
 
 **[Multi-Priority Patient Transfer under Ambulance
-Offload Delay](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4003735)**  
+Offload Delay](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4003735)** [[Code]](https://github.com/wenqian-xing/AOD-Lower-Bound)  
 Wenqian Xing, Cheng Hua  
 Major revision at *Production and Operations Management*  
 *Best Student Paper (2nd Place), INFORMS Conference on Service Science* 2021  
