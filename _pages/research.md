@@ -49,7 +49,7 @@ Major revision at *Production and Operations Management*
 **[NuSC: An Effective Local Search Algorithm for Solving the Set Covering Problem](https://ieeexplore.ieee.org/document/9877844)**  
 Chuan Luo, Wenqian Xing, Shaowei Cai, Chunming Hu  
 *IEEE Transactions on Cybernetics* 2022  
-[NuSC: An Open-Source Solver for the Set Covering Problem](https://github.com/chuanluocs/NuSC-Algorithm)  
+An [Open-Source Solver](https://github.com/chuanluocs/NuSC-Algorithm) for the [Set Covering Problem](https://en.wikipedia.org/wiki/Set_cover_problem)   
 
 **[Predictive Job Scheduling under Uncertain Constraints in Cloud Computing](https://www.ijcai.org/proceedings/2021/499)**  
 Dong Hang, Boshi Wang, Bo Qiao, Wenqian Xing, Chuan Luo et al.  
