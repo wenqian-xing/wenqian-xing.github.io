@@ -13,4 +13,4 @@ I serve as
 
 - Program committee member for the [INFORMS Workshop on Data Science 2024](https://sites.google.com/view/data-science-2024/home).  
 
-At Columbia IEOR department, I helped design and implement the course assistant matching system with [Yuri Faenza](https://www.columbia.edu/~yf2414/).
+At Columbia IEOR, I helped design and implement the course assistant matching system with [Yuri Faenza](https://www.columbia.edu/~yf2414/).
