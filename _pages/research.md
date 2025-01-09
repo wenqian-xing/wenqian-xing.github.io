@@ -34,7 +34,7 @@ Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu
 
 **[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)** [[Code]](https://github.com/meowoodie/Hyperlattice-Queueing-Model)  
 Shixiang Zhu, Wenqian Xing, Yao Xie  
-Major revision at *Transportation Science*   
+Under revision.  
 
 **[Optimal Unit Locations in Emergency Service Systems with Bayesian Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497957)**  
 Cheng Hua, Arthur J. Swersey, Wenqian Xing  
@@ -44,7 +44,6 @@ Cheng Hua, Arthur J. Swersey, Wenqian Xing
 **[Multi-Priority Patient Transfer under Ambulance
 Offload Delay](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4003735)** [[Code]](https://github.com/wenqian-xing/AOD-Lower-Bound)  
 Wenqian Xing, Cheng Hua  
-Major revision at *Production and Operations Management*  
 *Best Student Paper (2nd Place), INFORMS Conference on Service Science* 2021  
 
 **[NuSC: An Effective Local Search Algorithm for Solving the Set Covering Problem](https://ieeexplore.ieee.org/document/9877844)** [[Code]](https://github.com/chuanluocs/NuSC-Algorithm)  
