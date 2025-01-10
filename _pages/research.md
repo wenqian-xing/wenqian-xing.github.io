@@ -34,7 +34,6 @@ Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu
 
 **[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)** [[Code]](https://github.com/meowoodie/Hyperlattice-Queueing-Model)  
 Shixiang Zhu, Wenqian Xing, Yao Xie  
-Under revision.  
 
 **[Optimal Unit Locations in Emergency Service Systems with Bayesian Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497957)**  
 Cheng Hua, Arthur J. Swersey, Wenqian Xing  
