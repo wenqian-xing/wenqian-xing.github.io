@@ -29,7 +29,7 @@ Publications & Preprints
 
 **[Black-Box Optimization with Implicit Constraints for Public Policy](https://arxiv.org/abs/2310.18449)** [[Code]](https://github.com/wenqian-xing/CageBO)   
 Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu  
-*AAAI Conference on Artificial Intelligence (AAAI)* 2025  
+*Oral Paper, AAAI Conference on Artificial Intelligence (AAAI)* 2025  
 *Refereed Paper, INFORMS Optimization Society Conference* 2024  
 
 **[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)** [[Code]](https://github.com/meowoodie/Hyperlattice-Queueing-Model)  
