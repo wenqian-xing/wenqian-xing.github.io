@@ -12,28 +12,26 @@ Ongoing Works
 
 **Switchback Experiments under Stochastically Monotone Markov Chains**  
 with Jose H. Blanchet, Ramesh Johari, Peter Glynn, Linjia Wu  
-Analyze switchback experiment design under temporal (Markovian) interference modeled by stochastically monotone Markov chains.  
+<!--Analyze switchback experiment design under temporal (Markovian) interference modeled by stochastically monotone Markov chains.  -->
 
 **Experimental Design under Non-stationary Environments**  
 with Ramesh Johari, Tianyi Peng  
-Study experimental design and treatment effect estimation in non-stationary environments modeled as partially observed Markov chains.
-
-**Online Learning for Reward-Driven and Congestion-Aware Service
-Rate Control**  
-with Yue Hu, Anand Kalvit, Vahid Sarhangian  
-Manage the trade-off between unknown stochastic rewards and congestion using an online learning approach.  
+<!--Study experimental design and treatment effect estimation in non-stationary environments modeled as partially observed Markov chains. -->
 
 
 Publications & Preprints
 ------
 
+**[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
+Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian   
+
+**[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)** [[Code]](https://github.com/meowoodie/Hyperlattice-Queueing-Model)  
+Shixiang Zhu, Wenqian Xing, Yao Xie  
+
 **[Black-Box Optimization with Implicit Constraints for Public Policy](https://arxiv.org/abs/2310.18449)** [[Code]](https://github.com/wenqian-xing/CageBO)   
 Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu  
 *Oral Paper, AAAI Conference on Artificial Intelligence (AAAI)* 2025  
 *Refereed Paper, INFORMS Optimization Society Conference* 2024  
-
-**[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)** [[Code]](https://github.com/meowoodie/Hyperlattice-Queueing-Model)  
-Shixiang Zhu, Wenqian Xing, Yao Xie  
 
 **[Optimal Unit Locations in Emergency Service Systems with Bayesian Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497957)**  
 Cheng Hua, Arthur J. Swersey, Wenqian Xing  
