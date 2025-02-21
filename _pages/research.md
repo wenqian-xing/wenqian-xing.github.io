@@ -22,7 +22,7 @@ with Ramesh Johari, Tianyi Peng
 Publications & Preprints
 ------
 
-**[Online Learning for Dynamic Service Mode Control](https://gsb-faculty.stanford.edu/yue-hu/files/2025/02/Online-Learning-for-Dynamic-Service-Mode-Control.pdf)**   
+**[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
 Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian   
 
 **[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)** [[Code]](https://github.com/meowoodie/Hyperlattice-Queueing-Model)  
