@@ -12,11 +12,9 @@ Ongoing Works
 
 **Switchback Experiments under Stochastically Monotone Markov Chains**  
 with Jose H. Blanchet, Ramesh Johari, Peter Glynn, Linjia Wu  
-<!--Analyze switchback experiment design under temporal (Markovian) interference modeled by stochastically monotone Markov chains.  -->
 
-**Experimental Design under Non-stationary Environments**  
-with Ramesh Johari, Tianyi Peng  
-<!--Study experimental design and treatment effect estimation in non-stationary environments modeled as partially observed Markov chains. -->
+<!--**Experimental Design under Non-stationary Environments**  
+with Ramesh Johari, Tianyi Peng  -->
 
 
 Publications & Preprints
