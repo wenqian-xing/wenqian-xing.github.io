@@ -28,7 +28,7 @@ Shixiang Zhu, Wenqian Xing, Yao Xie
 
 **[Black-Box Optimization with Implicit Constraints for Public Policy](https://arxiv.org/abs/2310.18449)** [[Code]](https://github.com/wenqian-xing/CageBO)   
 Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu  
-*Oral Paper, AAAI Conference on Artificial Intelligence (AAAI)* 2025  
+*Oral Paper, AI-ORMS Bridge, AAAI Conference on Artificial Intelligence (AAAI)* 2025  
 *Refereed Paper, INFORMS Optimization Society Conference* 2024  
 
 **[Optimal Unit Locations in Emergency Service Systems with Bayesian Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497957)**  
