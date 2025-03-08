@@ -10,7 +10,7 @@ author_profile: true
 Ongoing Works
 ------
 
-**Switchback Experiments under Stochastically Monotone Markov Chains**  
+**Switchback Experiments under Stochastic Monotonicity**  
 W. Xing, J. Blanchet, R. Johari, P. Glynn, L. Wu  
 
 <!--**Experimental Design under Non-stationary Environments**  
