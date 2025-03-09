@@ -11,7 +11,7 @@ Ongoing Works
 ------
 
 **Switchback Experiments under Stochastic Monotonicity**  
-W. Xing, J. Blanchet, R. Johari, P. Glynn, L. Wu  
+W. Xing, J. Blanchet, R. Johari, Peter W. Glynn, L. Wu  
 
 <!--**Experimental Design under Non-stationary Environments**  
 with Ramesh Johari, Tianyi Peng  -->
