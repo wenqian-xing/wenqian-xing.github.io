@@ -21,7 +21,7 @@ Publications & Preprints
 ------
 
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
-W. Xing, Y. Hu, A. Kalvit, V. Sarhangian   
+W. Xing, Y. Hu, A. Kalvit, V. Sarhangian  
 
 **[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)** [[Code]](https://github.com/meowoodie/Hyperlattice-Queueing-Model)  
 S. Zhu, W. Xing, Y. Xie  
