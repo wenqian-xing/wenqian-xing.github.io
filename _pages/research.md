@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Ongoing Works
+Working Papers
 ------
 
 **Analysis of Switchback Experiments: When and Why Your
@@ -17,15 +17,15 @@ W. Xing, J. Blanchet, R. Johari, Peter W. Glynn, L. Wu
 <!--**Experimental Design under Non-stationary Environments**  
 with Ramesh Johari, Tianyi Peng  -->
 
-
-Publications & Preprints
-------
-
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
 W. Xing, Y. Hu, A. Kalvit, V. Sarhangian  
 
-**[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)** [[Code]](https://github.com/meowoodie/Hyperlattice-Queueing-Model)  
+**[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
 S. Zhu, W. Xing, Y. Xie  
+
+
+Publications
+------
 
 **[Black-Box Optimization with Implicit Constraints for Public Policy](https://arxiv.org/abs/2310.18449)** [[Code]](https://github.com/wenqian-xing/CageBO)   
 W. Xing, J. Lee, C. Liu, S. Zhu  
