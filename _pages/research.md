@@ -14,9 +14,6 @@ Working Papers
 Estimation May be Conservative?**  
 W. Xing, J. Blanchet, R. Johari, Peter W. Glynn, L. Wu  
 
-<!--**Experimental Design under Non-stationary Environments**  
-with Ramesh Johari, Tianyi Peng  -->
-
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
 W. Xing, Y. Hu, A. Kalvit, V. Sarhangian  
 
@@ -27,7 +24,7 @@ S. Zhu, W. Xing, Y. Xie
 Publications
 ------
 
-**[Black-Box Optimization with Implicit Constraints for Public Policy](https://arxiv.org/abs/2310.18449)** [[Code]](https://github.com/wenqian-xing/CageBO)   
+**[Black-Box Optimization with Implicit Constraints for Public Policy](https://doi.org/10.1609/aaai.v39i27.35074)** [[Code]](https://github.com/wenqian-xing/CageBO)   
 W. Xing, J. Lee, C. Liu, S. Zhu  
 *Oral Paper, AAAI Conference on Artificial Intelligence (AAAI)* 2025  
 *Refereed Paper, INFORMS Optimization Society Conference (IOS)* 2024  
