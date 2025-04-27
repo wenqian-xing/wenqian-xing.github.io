@@ -10,10 +10,6 @@ author_profile: true
 Working Papers
 ------
 
-**Analysis of Switchback Experiments: When and Why Your
-Estimation May be Conservative?**  
-W. Xing, J. Blanchet, R. Johari, Peter W. Glynn, L. Wu  
-
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
 W. Xing, Y. Hu, A. Kalvit, V. Sarhangian  
 
