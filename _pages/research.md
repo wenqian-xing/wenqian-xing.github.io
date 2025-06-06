@@ -7,15 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-Working Papers
+Preprints
 ------
 
+**[Estimation of Treatment Effects under Nonstationarity via Truncated Difference-in-Q’s](https://arxiv.org/abs/2506.05308)**  [[Code]](https://github.com/wenqian-xing/Truncated-DQ-Estimator)   
+Ramesh Johari, Tianyi Peng, Wenqian Xing  
+
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
-Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian   
+Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian  
 
 **[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
 Shixiang Zhu, Wenqian Xing, Yao Xie  
 
+**[Optimizing Server Locations for Stochastic Emergency Service Systems](https://arxiv.org/abs/2505.22249)**  
+Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang  
 
 Publications
 ------
@@ -25,8 +30,8 @@ Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu
 *Oral Paper, AAAI Conference on Artificial Intelligence (AAAI)* 2025  
 *Refereed Paper, INFORMS Optimization Society Conference (IOS)* 2024  
 
-**[Optimal Unit Locations in Emergency Service Systems with Bayesian Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497957)**  
-Cheng Hua, Arthur Swersey, Wenqian Xing  
+**[Optimal Unit Locations in Emergency Service Systems with Bayesian Optimization](https://link.springer.com/chapter/10.1007/978-3-031-15644-1_32)**  
+Wenqian Xing, Cheng Hua   
 *Best Paper (Finalist), INFORMS Conference on Service Science* 2022  
 *Best Student Paper (Finalist), POMS International Conference* 2022  
 
