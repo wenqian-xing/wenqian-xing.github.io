@@ -39,7 +39,7 @@ Wenqian Xing, Cheng Hua
 Chuan Luo, Wenqian Xing, Shaowei Cai, Chunming Hu  
 *IEEE Transactions on Cybernetics* 2022  
 
-**[Patient Transfer Under Ambulance Offload Delays: An Approximate Dynamic Programming Approach](https://link.springer.com/chapter/10.1007/978-3-030-90275-9_27)**  
+**[Patient Transfer under Ambulance Offload Delays: An Approximate Dynamic Programming Approach](https://link.springer.com/chapter/10.1007/978-3-030-90275-9_27)**  
 Wenqian Xing, Cheng Hua  
 *Best Student Paper (2nd Place), INFORMS Conference on Service Science* 2021  
 
