@@ -7,10 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-I am fortunate to serve as
+I am also fortunate to serve as:  
 
-- Webmaster for the [SNAPP seminar (2024-25)](https://sites.google.com/view/snappseminar/).  
+- Webmaster, [SNAPP seminar (2024-2025)](https://sites.google.com/view/snappseminar/).  
 
-- Program committee member for the [INFORMS Workshop on Data Science (2024-25)](https://sites.google.com/view/data-science-2024/home).  
+- Program committee member, INFORMS Workshop on Data Science (2024-2025).  
+
+- Session Co-Chair, Experimentation and Interference, INFORMS Annual Meeting 2025.
 
 - Ad-hoc reviewer for *Neurips, AISTATS, AAAI, Production and Operations Management*.  
