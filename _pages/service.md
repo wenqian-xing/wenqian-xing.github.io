@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am also fortunate to serve as:  
+I am fortunate to serve as:  
 
 - Webmaster, [SNAPP seminar (2024-2025)](https://sites.google.com/view/snappseminar/).  
 - Program Committee Member, INFORMS Workshop on Data Science (2024-2025).  
