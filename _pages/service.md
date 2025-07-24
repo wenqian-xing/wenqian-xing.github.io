@@ -10,9 +10,6 @@ author_profile: true
 I am also fortunate to serve as:  
 
 - Webmaster, [SNAPP seminar (2024-2025)](https://sites.google.com/view/snappseminar/).  
-
-- Program committee member, INFORMS Workshop on Data Science (2024-2025).  
-
+- Program Committee Member, INFORMS Workshop on Data Science (2024-2025).  
 - Session Co-Chair, Experimentation and Interference, INFORMS Annual Meeting 2025.
-
-- Ad-hoc reviewer for *Neurips, AISTATS, AAAI, Production and Operations Management*.  
+- Reviewer for *Neurips, AISTATS, AAAI, Production and Operations Management*.  
