@@ -30,6 +30,11 @@ Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu
 *Oral Paper, AAAI Conference on Artificial Intelligence (AAAI)* 2025  
 *Refereed Paper, INFORMS Optimization Society Conference (IOS)* 2024  
 
+**[Multi-Priority Patient Transfer Under Ambulance Offload Delay](https://link.springer.com/chapter/10.1007/978-3-030-90275-9_27)**  
+Wenqian Xing, Cheng Hua  
+*Forthcoming, Production and Operations Management* 2025  
+*Best Student Paper (2nd Place), INFORMS Conference on Service Science* 2021  
+
 **[Optimal Unit Locations in Emergency Service Systems with Bayesian Optimization](https://link.springer.com/chapter/10.1007/978-3-031-15644-1_32)**  
 Wenqian Xing, Cheng Hua   
 *Best Paper (Finalist), INFORMS Conference on Service Science* 2022  
@@ -38,11 +43,6 @@ Wenqian Xing, Cheng Hua
 **[NuSC: An Effective Local Search Algorithm for Solving the Set Covering Problem](https://ieeexplore.ieee.org/document/9877844)** [[Code]](https://github.com/chuanluocs/NuSC-Algorithm)  
 Chuan Luo, Wenqian Xing, Shaowei Cai, Chunming Hu  
 *IEEE Transactions on Cybernetics* 2022  
-
-**[Multi-Priority Patient Transfer Under Ambulance Offload Delay](https://link.springer.com/chapter/10.1007/978-3-030-90275-9_27)**  
-Wenqian Xing, Cheng Hua  
-*Forthcoming, Production and Operations Management* 2025  
-*Best Student Paper (2nd Place), INFORMS Conference on Service Science* 2021  
 
 **[Predictive Job Scheduling under Uncertain Constraints in Cloud Computing](https://www.ijcai.org/proceedings/2021/499)** [[Code]](https://github.com/wenqian-xing/SB-IJCAI-Paper)  
 Hang Dong, Boshi Wang, Bo Qiao, Wenqian Xing, Chuan Luo et al.  
