@@ -32,7 +32,7 @@ Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu
 
 **[Multi-Priority Patient Transfer Under Ambulance Offload Delay](https://link.springer.com/chapter/10.1007/978-3-030-90275-9_27)**  
 Wenqian Xing, Cheng Hua  
-*Forthcoming, Production and Operations Management* 2025  
+*Forthcoming, Production and Operations Management*    
 *Best Student Paper (2nd Place), INFORMS Conference on Service Science* 2021  
 
 **[Optimal Unit Locations in Emergency Service Systems with Bayesian Optimization](https://link.springer.com/chapter/10.1007/978-3-031-15644-1_32)**  
