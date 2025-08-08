@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 At Stanford University, I have been a course assistant for:  
+- MS&E 226 Fundamentals of Data Science (Fall 2025)  
 - OIT 245 Optimization and Simulation Modeling (Fall 2024)   
 
 At Columbia University, I have been a course assistant for:  
