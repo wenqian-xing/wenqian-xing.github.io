@@ -30,7 +30,7 @@ Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu
 *Oral Paper, AAAI Conference on Artificial Intelligence (AAAI)* 2025  
 *Refereed Paper, INFORMS Optimization Society Conference (IOS)* 2024  
 
-**[Multi-Priority Patient Transfer Under Ambulance Offload Delay](https://link.springer.com/chapter/10.1007/978-3-030-90275-9_27)**  
+**[Multi-Priority Patient Transfer Under Ambulance Offload Delay](https://journals.sagepub.com/doi/10.1177/10591478251369598)**  
 Wenqian Xing, Cheng Hua  
 *Forthcoming, Production and Operations Management*    
 *Best Student Paper (2nd Place), INFORMS Conference on Service Science* 2021  
