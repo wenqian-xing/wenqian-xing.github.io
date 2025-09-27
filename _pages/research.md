@@ -10,13 +10,14 @@ author_profile: true
 Preprints
 ------
 
+**Conservative Inference in Switchback Experiments**  
+Jose Blanchet, Peter W. Glynn, Ramesh Johari, Linjia Wu, Wenqian Xing  
+
 **[Estimation of Treatment Effects under Nonstationarity via Truncated Difference-in-Q’s](https://arxiv.org/abs/2506.05308)**  [[Code]](https://github.com/wenqian-xing/Truncated-DQ-Estimator)   
 Ramesh Johari, Tianyi Peng, Wenqian Xing  
-*NeurIPS ML×OR Workshop* 2025  
 
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
 Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian  
-*NeurIPS ML×OR Workshop* 2025  
 
 **[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
 Shixiang Zhu, Wenqian Xing, Yao Xie  
