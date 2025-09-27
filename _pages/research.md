@@ -15,12 +15,14 @@ Jose Blanchet, Peter W. Glynn, Ramesh Johari, Linjia Wu, Wenqian Xing
 
 **[Estimation of Treatment Effects under Nonstationarity via Truncated Difference-in-Q’s](https://arxiv.org/abs/2506.05308)**  [[Code]](https://github.com/wenqian-xing/Truncated-DQ-Estimator)   
 Ramesh Johari, Tianyi Peng, Wenqian Xing  
+Short version at *NeurIPS 2025 ML×OR Workshop*  
 
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
 Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian  
+Short version at *NeurIPS 2025 ML×OR Workshop*  
 
 **[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
-Shixiang Zhu, Wenqian Xing, Yao Xie  
+Wenqian Xing, Shixiang Zhu, Yao Xie  
 
 **[Optimizing Server Locations for Stochastic Emergency Service Systems](https://arxiv.org/abs/2505.22249)**  
 Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang  
