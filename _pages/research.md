@@ -10,9 +10,6 @@ author_profile: true
 Preprints
 ------
 
-**Conservative Inference in Switchback Experiments**  
-Jose Blanchet, Peter W. Glynn, Ramesh Johari, Linjia Wu, Wenqian Xing  
-
 **[Estimation of Treatment Effects under Nonstationarity via Truncated Difference-in-Q’s](https://arxiv.org/abs/2506.05308)**  [[Code]](https://github.com/wenqian-xing/Truncated-DQ-Estimator)   
 Ramesh Johari, Tianyi Peng, Wenqian Xing  
 Short version at *NeurIPS 2025 ML×OR Workshop*  
