@@ -19,7 +19,7 @@ Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian
 Short version at *NeurIPS 2025 ML×OR Workshop*  
 
 **[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
-Wenqian Xing, Shixiang Zhu, Yao Xie  
+Shixiang Zhu, Wenqian Xing, Yao Xie  
 
 **[Optimizing Server Locations for Stochastic Emergency Service Systems](https://arxiv.org/abs/2505.22249)**  
 Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang  
