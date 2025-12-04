@@ -21,7 +21,7 @@ Short version at *NeurIPS 2025 ML×OR Workshop*
 **[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
 Wenqian Xing, Shixiang Zhu, Yao Xie  
 
-**[Optimizing Server Locations for Stochastic Emergency Service Systems](https://arxiv.org/abs/2505.22249)**  
+**[Optimizing Server Locations in Spatial Queues: Parametric and Non-parametric Bayesian Optimization Approaches](https://arxiv.org/abs/2505.22249)**  
 Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang  
 
 Publications
@@ -35,6 +35,7 @@ Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu
 **[Multi-Priority Patient Transfer Under Ambulance Offload Delay](https://journals.sagepub.com/doi/10.1177/10591478251369598)**  
 Wenqian Xing, Cheng Hua  
 *Production and Operations Management* 2025  
+*Best Student Paper (Finalist), POMS International Conference* 2024
 *Best Student Paper (2nd Place), INFORMS Conference on Service Science* 2021  
 
 **[Optimal Unit Locations in Emergency Service Systems with Bayesian Optimization](https://link.springer.com/chapter/10.1007/978-3-031-15644-1_32)**  
