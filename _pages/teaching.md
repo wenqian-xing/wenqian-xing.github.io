@@ -15,4 +15,4 @@ At Columbia University, I have been a course assistant for:
 - IEOR 4407 Game Theoretical Models (Fall 2022)   
 
 At UM-SJTU Joint Institute, I have been a teaching assistant for:  
-- VG 441 Supply Chain Management (Summer 2020)   
+- VG 441 Optimization Methods in Supply Chain (Summer 2020)   
