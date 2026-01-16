@@ -19,8 +19,8 @@ Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian
 Short version at *NeurIPS 2025 ML×OR Workshop*  
 
 **[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
-*First Place, Clifford Spiegelman Student Paper Competition, JSM* 2026   
 Wenqian Xing, Shixiang Zhu, Yao Xie  
+*First Place, Clifford Spiegelman Student Paper Competition, JSM* 2026   
 
 **[Optimizing Server Locations in Spatial Queues: Parametric and Non-parametric Bayesian Optimization Approaches](https://arxiv.org/abs/2505.22249)**  
 Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang  
