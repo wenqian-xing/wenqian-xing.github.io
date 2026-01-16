@@ -18,7 +18,7 @@ Short version at *NeurIPS 2025 ML×OR Workshop*
 Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian  
 Short version at *NeurIPS 2025 ML×OR Workshop*  
 
-**[Generalized Hypercube Queuing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
+**[Generalized Hypercube Queueing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
 Wenqian Xing, Shixiang Zhu, Yao Xie  
 *First Place, Clifford Spiegelman Student Paper Competition, JSM* 2026   
 
