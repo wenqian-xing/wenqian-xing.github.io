@@ -36,13 +36,13 @@ Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu
 **[Multi-Priority Patient Transfer Under Ambulance Offload Delay](https://journals.sagepub.com/doi/10.1177/10591478251369598)**  
 Wenqian Xing, Cheng Hua  
 *Production and Operations Management* 2025  
-*Best Student Paper (Finalist), POMS International Conference* 2024  
-*Best Student Paper (2nd Place), INFORMS Conference on Service Science* 2021  
+*Finalist, Best Student Paper Competition, POMS International Conference* 2024  
+*Second Place, Best Student Paper Competition, INFORMS Conference on Service Science* 2021  
 
 **[Optimal Unit Locations in Emergency Service Systems with Bayesian Optimization](https://link.springer.com/chapter/10.1007/978-3-031-15644-1_32)**  
 Wenqian Xing, Cheng Hua   
-*Best Paper (Finalist), INFORMS Conference on Service Science* 2022  
-*Best Student Paper (Finalist), POMS International Conference* 2022  
+*Finalist, Best Paper Competition, INFORMS Conference on Service Science* 2022  
+*Finalist, Best Student Paper Competition, POMS International Conference* 2022  
 
 **[NuSC: An Effective Local Search Algorithm for Solving the Set Covering Problem](https://ieeexplore.ieee.org/document/9877844)** [[Code]](https://github.com/chuanluocs/NuSC-Algorithm)  
 Chuan Luo, Wenqian Xing, Shaowei Cai, Chunming Hu  
