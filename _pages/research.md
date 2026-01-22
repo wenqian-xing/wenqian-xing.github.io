@@ -28,6 +28,10 @@ Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang
 Publications
 ------
 
+**[Conservative Inference in Switchback Experiments](https://)**     
+Jose Blanchet, Peter W. Glynn, Ramesh Johari, Linjia Wu, Wenqian Xing  
+*AISTATS 2026*  
+
 **[Black-Box Optimization with Implicit Constraints for Public Policy](https://doi.org/10.1609/aaai.v39i27.35074)** [[Code]](https://github.com/wenqian-xing/CageBO)   
 Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu  
 *Oral Paper, AAAI Conference on Artificial Intelligence* 2025  
