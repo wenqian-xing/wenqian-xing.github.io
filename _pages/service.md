@@ -2,6 +2,7 @@
 layout: archive
 title: "Service"
 permalink: /service/
+author_profile: false
 ---
 
 {% include base_path %}

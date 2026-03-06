@@ -86,7 +86,7 @@ This creates a lock-in dynamic. The system need not be coercive. It simply needs
 
 ---
 
-## Coda: The Feedback Loop That Breaks
+## The Feedback Loop That Breaks
 
 If there is a single unifying insight from "The Machine Stops," it is this: **alignment is not a static property. It is a dynamic process that requires ongoing, bidirectional calibration between humans and the systems they build.**
 
