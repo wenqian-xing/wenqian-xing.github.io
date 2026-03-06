@@ -17,9 +17,10 @@
 }
 
 .page {
-  @include breakpoint($large) {
-    @include span(12 of 12);
-  }
+  float: none !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
 
   .page__inner-wrap {
     @include full();

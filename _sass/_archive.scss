@@ -4,14 +4,10 @@
 
 .archive {
   margin-bottom: 2em;
-
-  @include breakpoint($medium) {
-    @include span(12 of 12);
-  }
-
-  @include breakpoint($large) {
-    @include span(12 of 12);
-  }
+  float: none !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
 
   a {
     text-decoration: underline;
