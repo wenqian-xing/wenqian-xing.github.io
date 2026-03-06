@@ -235,9 +235,9 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
+      # read_time: true
       comments: true
-      share: true
+      # share: true
       related: true
   # _pages
   - scope:
