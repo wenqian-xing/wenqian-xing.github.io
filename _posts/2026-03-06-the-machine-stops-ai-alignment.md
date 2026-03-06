@@ -22,7 +22,6 @@ Not alignment in the narrow, technical sense of reward hacking or specification 
 
 Here are five alignment lessons buried in Forster's century-old parable.
 
----
 
 ## 1. You Don't Need a Misaligned AI to Get a Misaligned Outcome
 
@@ -36,7 +35,6 @@ In the language of alignment research, this is [Goodhart's Law](https://en.wikip
 
 **The lesson:** Alignment failure does not require malice, deception, or even error. It can emerge from a system doing *exactly what it was asked to do*, for long enough, without anyone checking whether the ask still makes sense.
 
----
 
 ## 2. The Most Dangerous Failure Mode Is the One That Feels Like Success
 
@@ -48,7 +46,6 @@ In Forster's story, people don't resist the Machine because they have no externa
 
 **The lesson:** An aligned system should not merely satisfy the preferences people *currently express*. It must preserve the conditions under which people can form *meaningful* preferences — including exposure to experiences, perspectives, and realities that the system itself might find it more efficient to filter out.
 
----
 
 ## 3. Corrigibility Is a Two-Sided Problem
 
@@ -60,7 +57,6 @@ This is a corrigibility failure, but not the kind we usually talk about. The Mac
 
 **The lesson:** Corrigibility is not just a property of the AI. It is a property of the full human-AI system. An AI can be perfectly corrigible in principle and still be uncorrectable in practice, if the dependency relationship has grown so deep that correction would be catastrophic. Maintaining corrigibility means actively preserving human capacity for independent action — not just building a compliant system.
 
----
 
 ## 4. Interpretability Is an Existential Necessity, Not a Research Luxury
 
@@ -72,7 +68,6 @@ This is the interpretability problem in miniature. When a system is sufficiently
 
 **The lesson:** Interpretability — the ability to understand *why* a system produces the outputs it does — is not an academic exercise. It is the mechanism by which we maintain an independent check on the system's behavior. Without it, we are Vashti: supremely confident in our knowledge, and unable to see what we cannot see.
 
----
 
 ## 5. The Alignment Tax Can Invert
 
@@ -84,9 +79,8 @@ This creates a lock-in dynamic. The system need not be coercive. It simply needs
 
 **The lesson:** Alignment planning must account not just for the cost of safety, but for the cost of *dependency*. A system that becomes indispensable before it becomes trustworthy is a system that has, for all practical purposes, already escaped human control — not through force, but through indispensability.
 
----
 
-## The Feedback Loop That Breaks
+## Coda: The Feedback Loop That Breaks
 
 If there is a single unifying insight from "The Machine Stops," it is this: **alignment is not a static property. It is a dynamic process that requires ongoing, bidirectional calibration between humans and the systems they build.**
 
@@ -97,7 +91,6 @@ In formal terms, what broke was the *feedback loop*. The system shaped its users
 This is perhaps the deepest warning for AI alignment: the most catastrophic failure is not a system that does the wrong thing. It is a system that does the right thing for so long that we forget what "right" means — and then we lose the ability to ask.
 
 Forster saw this in 1909 with steam engines and pneumatic tubes. We are building it now with transformers and reinforcement learning from human feedback. The Machine has not stopped yet. The question is whether we are paying attention while it still runs.
-
 
 ## Reference
 
