@@ -7,7 +7,7 @@ tags:
   - science fiction
 ---
 
-*A century-old warning about AI alignment.*
+*A century-old parable about AI alignment.*
 
 ---
 
