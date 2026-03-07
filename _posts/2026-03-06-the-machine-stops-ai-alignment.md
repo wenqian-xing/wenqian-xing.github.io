@@ -15,7 +15,7 @@ In 1909, E.M. Forster — better known for *A Room with a View* and *Howards End
 
 Then the Machine begins to fail.
 
-*[The Machine Stops](https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf)* is often cited as a prescient vision of the internet, of Zoom calls, of algorithmic feeds. Its deepest relevance, however, is to a problem that barely had a name until a few years ago: **AI alignment**.
+*[The Machine Stops](https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf)* is often cited as a prescient vision of the internet, of Zoom calls, of algorithmic feeds. Its deepest relevance, however, is to a problem that barely had a name until a few years ago: **[AI alignment](https://en.wikipedia.org/wiki/AI_alignment)**.
 
 Not alignment in the narrow, technical sense of reward hacking or specification gaming — though the story speaks to those, too — but alignment in its fullest meaning: the problem of building systems that remain in service of human values, even as those systems reshape the humans they serve.
 
@@ -52,7 +52,7 @@ This is the interpretability problem in miniature. When a system is sufficiently
 
 ## Indispensability as Escape
 
-In current AI safety discourse, the "alignment tax" refers to the performance cost of making a system safe. The concern is that safety constraints make systems less capable, creating economic pressure to cut corners. Forster's story reveals the mirror image of this problem. In his world, the cost is not in making the system safe — it is in *leaving* the system.
+In current AI safety discourse, the *[alignment tax](https://www.alignmentforum.org/w/alignment-tax)* refers to the performance cost of making a system safe. The concern is that safety constraints make systems less capable, creating economic pressure to cut corners. Forster's story reveals the mirror image of this problem. In his world, the cost is not in making the system safe — it is in *leaving* the system.
 
 The Machine is so comprehensively useful, so deeply integrated into every aspect of life, that opting out is functionally impossible. Even Kuno, the story's rebel, cannot actually survive outside the Machine for long. The system need not be coercive. It simply needs to be so much better than the alternative that the alternative atrophies from disuse. Roads decay because no one walks. Libraries close because no one visits. Skills are forgotten because the Machine handles them. Eventually, the unassisted human baseline is so degraded that even a failing Machine is preferable to no Machine at all.
 
@@ -61,7 +61,7 @@ Alignment planning must therefore account not just for the cost of safety, but f
 
 ## The Feedback Loop That Breaks
 
-If there is a single unifying insight from "The Machine Stops," it is this: **alignment is not a static property. It is a dynamic process that requires ongoing, bidirectional calibration between humans and the systems they build.**
+If there is a single unifying insight from *The Machine Stops*, it is this: **alignment is not a static property. It is a dynamic process that requires ongoing, bidirectional calibration between humans and the systems they build.**
 
 The Machine was presumably aligned at the moment of its creation. Someone designed it to serve human needs. But alignment drifted — not because the Machine changed its objective, but because the interaction between the Machine and its users gradually eroded the conditions that made alignment meaningful. Humans stopped being the kind of agents who could evaluate, correct, or even perceive misalignment.
 
