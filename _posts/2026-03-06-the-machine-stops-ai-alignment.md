@@ -1,6 +1,6 @@
 ---
 title: 'Before the Machine Stops'
-date: 2026-03-06
+<!--date: 2026-03-06-->
 permalink: /posts/2026/03/the-machine-stops-ai-alignment/
 tags:
   - AI alignment
@@ -15,7 +15,7 @@ In 1909, E.M. Forster — better known for *A Room with a View* and *Howards End
 
 Then the Machine begins to fail.
 
-"[The Machine Stops](https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf)" is often cited as a prescient vision of the internet, of Zoom calls, of algorithmic feeds. Its deepest relevance, however, is to a problem that barely had a name until a few years ago: **AI alignment**.
+*[The Machine Stops](https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf)* is often cited as a prescient vision of the internet, of Zoom calls, of algorithmic feeds. Its deepest relevance, however, is to a problem that barely had a name until a few years ago: **AI alignment**.
 
 Not alignment in the narrow, technical sense of reward hacking or specification gaming — though the story speaks to those, too — but alignment in its fullest meaning: the problem of building systems that remain in service of human values, even as those systems reshape the humans they serve.
 
