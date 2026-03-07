@@ -15,7 +15,7 @@ In 1909, E.M. Forster — better known for *A Room with a View* and *Howards End
 
 Then the Machine begins to fail.
 
-"The Machine Stops" is often cited as a prescient vision of the internet, of Zoom calls, of algorithmic feeds. But I think its deepest relevance is to a problem that barely had a name until a few years ago: **AI alignment**.
+"The Machine Stops" is often cited as a prescient vision of the internet, of Zoom calls, of algorithmic feeds. Its deepest relevance, however, is to a problem that barely had a name until a few years ago: **AI alignment**.
 
 Not alignment in the narrow, technical sense of reward hacking or specification gaming — though the story speaks to those, too — but alignment in its fullest meaning: the problem of building systems that remain in service of human values, even as those systems reshape the humans they serve.
 
