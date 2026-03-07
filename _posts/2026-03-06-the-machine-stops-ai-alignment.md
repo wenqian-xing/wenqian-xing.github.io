@@ -1,14 +1,13 @@
 ---
-title: 'The Machine Stops — And What It Teaches Us About AI Alignment'
+title: 'The Machine Stops'
 date: 2026-03-06
 permalink: /posts/2026/03/the-machine-stops-ai-alignment/
 tags:
   - AI alignment
   - science fiction
-  - AI safety
 ---
 
-*A 116-year-old science fiction story might be the most important text in AI safety today.*
+*A 116-year-old science fiction story may be one of the sharpest parables for AI alignment.*
 
 ---
 
