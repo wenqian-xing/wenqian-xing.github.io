@@ -1,5 +1,5 @@
 ---
-title: 'The Machine Stops'
+title: 'Before the Machine Stops'
 date: 2026-03-06
 permalink: /posts/2026/03/the-machine-stops-ai-alignment/
 tags:
