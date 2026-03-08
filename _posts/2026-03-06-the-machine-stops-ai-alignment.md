@@ -69,7 +69,7 @@ In formal terms, what broke was the *feedback loop*. The system shaped its users
 
 This is perhaps the deepest warning for AI alignment: the most catastrophic failure is not a system that does the wrong thing. It is a system that does the right thing for so long that we forget what "right" means — and then we lose the ability to ask.
 
-Forster saw this in 1909 with steam engines and pneumatic tubes. We are building it now with transformers and reinforcement learning from human feedback. **[The Machine has not stopped yet](https://www.citriniresearch.com/p/2028gic)**. The question is whether we are paying attention while it still runs.
+Forster saw this in 1909 with steam engines and pneumatic tubes. We are building it now with transformers and reinforcement learning from human feedback. *[The Machine has not stopped yet](https://www.citriniresearch.com/p/2028gic)*. The question is whether we are paying attention while it still runs.
 
 ## Reference
 
