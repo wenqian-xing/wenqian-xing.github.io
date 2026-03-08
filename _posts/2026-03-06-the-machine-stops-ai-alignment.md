@@ -61,7 +61,7 @@ Alignment planning must therefore account not just for the cost of safety, but f
 
 ## The Feedback Loop That Breaks
 
-If there is a single unifying insight from *The Machine Stops*, it is this: **alignment is not a static design of a reward or a contract. It is a dynamic process that requires ongoing, bidirectional calibration between humans and the systems they build.**
+If there is a single unifying insight from *The Machine Stops*, it is this: **alignment is not a static property. It is a dynamic process that requires ongoing, bidirectional calibration between humans and the systems they build.**
 
 The Machine was presumably aligned at the moment of its creation. Someone designed it to serve human needs. But alignment drifted — not because the Machine changed its objective, but because the interaction between the Machine and its users gradually eroded the conditions that made alignment meaningful. Humans stopped being the kind of agents who could evaluate, correct, or even perceive misalignment.
 
