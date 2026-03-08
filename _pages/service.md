@@ -19,6 +19,8 @@ At Columbia University, I have been a course assistant for:
 At UM-SJTU Joint Institute, I have been a teaching assistant for:
 - VG 441 Optimization Methods in Supply Chain (Summer 2020)
 
+&nbsp;
+
 # Service
 
 I am fortunate to serve as:
@@ -27,6 +29,7 @@ I am fortunate to serve as:
 - Program Committee Member, INFORMS Workshop on Data Science (2024-2025).
 - Session Co-Chair, Experimentation and Interference, INFORMS Annual Meeting 2025.
 
+&nbsp;
 
 # Reviewer
 <!--- *IEEE TNNLS*-->
