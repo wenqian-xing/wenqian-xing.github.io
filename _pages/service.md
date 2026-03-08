@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Service"
 permalink: /service/
 author_profile: false
 ---
 
 {% include base_path %}
 
-## Teaching
+# Teaching
 
 At Stanford University, I have been a course assistant for:
 - MS&E 226 Fundamentals of Data Science (Fall 2025)
@@ -20,7 +19,7 @@ At Columbia University, I have been a course assistant for:
 At UM-SJTU Joint Institute, I have been a teaching assistant for:
 - VG 441 Optimization Methods in Supply Chain (Summer 2020)
 
-## Service
+# Service
 
 I am fortunate to serve as:
 
@@ -29,7 +28,7 @@ I am fortunate to serve as:
 - Session Co-Chair, Experimentation and Interference, INFORMS Annual Meeting 2025.
 
 
-## Reviewer
+# Reviewer
 <!--- *IEEE TNNLS*-->
-- *Neurips, ICML, AISTATS, AAAI*
-- *Production and Operations Management*
+- Neurips, ICML, AISTATS, AAAI
+- Production and Operations Management
