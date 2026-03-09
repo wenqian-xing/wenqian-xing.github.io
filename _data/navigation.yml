@@ -11,8 +11,8 @@ main:
   - title: "Service"
     url: /service/
 
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
 
   # - title: "Publications"
   #   url: /publications/
