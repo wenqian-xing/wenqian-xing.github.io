@@ -11,7 +11,7 @@ I'm a 3rd-year Ph.D. student in [Operations Research](https://or.stanford.edu/) 
 
 My research interests lie broadly in stochastic modeling and decision-making under uncertainty, with a focus on causal inference, online learning and experimentation, and AI alignment.
 
-I’ll be joining Amazon Stores Economics & Science this summer as an Applied Scientist Intern—welcome to connect if you’re in Seattle this summer!
+<!--I’ll be joining Amazon Stores Economics & Science this summer as an Applied Scientist Intern!-->
 
 Contact
 ======
