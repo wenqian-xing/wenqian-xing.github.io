@@ -28,7 +28,7 @@ Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang
 Publications
 ------
 
-**[Conservative Inference in Switchback Experiments](https://openreview.net/forum?id=psLjdDj7j1)**     
+**[Conservative Inference in Switchback Experiments](https://openreview.net/forum?id=psLjdDj7j1)**  [[Code]](https://github.com/wenqian-xing/conservative-inference-switchback-experiments)   
 Jose Blanchet, Peter W. Glynn, Ramesh Johari, Linjia Wu, Wenqian Xing  
 *AISTATS* 2026   
 
