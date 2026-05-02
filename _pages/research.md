@@ -12,7 +12,7 @@ Preprints
 
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
 Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian  
-*NeurIPS ML×OR Workshop* 2025  
+<!-- *NeurIPS ML×OR Workshop* 2025   -->
 
 **[Generalized Hypercube Queueing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
 Wenqian Xing, Shixiang Zhu, Yao Xie  
@@ -27,7 +27,7 @@ Publications
 **[Estimation of Treatment Effects under Nonstationarity via the Truncated Policy Gradient Estimator](https://arxiv.org/abs/2506.05308)**  [[Code]](https://github.com/wenqian-xing/Truncated-DQ-Estimator)   
 Ramesh Johari, Tianyi Peng, Wenqian Xing  
 *ICML* 2026   
-*NeurIPS ML×OR Workshop* 2025  
+<!-- *NeurIPS ML×OR Workshop* 2025   -->
 
 **[Conservative Inference in Switchback Experiments](https://openreview.net/forum?id=psLjdDj7j1)**  [[Code]](https://github.com/wenqian-xing/conservative-inference-switchback-experiments)   
 Jose Blanchet, Peter W. Glynn, Ramesh Johari, Linjia Wu, Wenqian Xing  
