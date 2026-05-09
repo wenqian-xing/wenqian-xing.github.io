@@ -10,6 +10,9 @@ author_profile: false
 Preprints
 ------
 
+**[Learning to Communicate Under Alignment Uncertainty: A Bayesian Persuasion Bandit Approach](https://drive.google.com/file/d/1ags36HsTmBtxj27sEUnKstaCZYzAgldU/view?usp=sharing)**   
+Wenqian Xing, Ramesh Johari   
+
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
 Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian  
 <!-- *NeurIPS ML×OR Workshop* 2025   -->
@@ -60,3 +63,6 @@ Hang Dong, Boshi Wang, Bo Qiao, Wenqian Xing, Chuan Luo et al.
 **[Correlation-aware Heuristic Search for Intelligent Virtual Machine Provisioning in Cloud Systems](https://ojs.aaai.org/index.php/AAAI/article/view/17467)**  
 Chuan Luo, Bo Qiao, Wenqian Xing, Xin Chen et al.  
 *AAAI Conference on Artificial Intelligence* 2021  
+
+**[Approximate Dynamic Portfolio Optimization](https://drive.google.com/file/d/1FpNMZYGAt7d78h22qH_yh5ovmmCLd_06/view?usp=sharing)**  
+Master’s thesis, advised by Prof. [Hong Chen](https://scholar.google.com/citations?user=LAGGFe0AAAAJ&hl=en)
