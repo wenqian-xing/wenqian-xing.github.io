@@ -71,7 +71,7 @@ Open-source code
 ------
 
 **[XP Gym: An Experiment Gym for Simulation-Based A/B Experiments, Experimental Designs, and Treatment-Effect Estimators](https://github.com/atzheng/xp_gym)**  
-with Andrew Zheng  
+with [Andrew Zheng](https://www.sauder.ubc.ca/people/andrew-zheng)  
 
 **[NuSC: A Heuristic Solver for Set Covering Problems](https://github.com/chuanluocs/NuSC-Algorithm)**  
-with Chuan Luo
+with [Chuan Luo](https://chuanluocs.github.io/)
