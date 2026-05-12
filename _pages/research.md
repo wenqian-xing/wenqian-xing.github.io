@@ -70,7 +70,7 @@ Master’s thesis, advised by Prof. [Hong Chen](https://scholar.google.com/citat
 Open-source code
 ------
 
-**[XP Gym: An Experiment Gym for Simulation-Based A/B Experiments, Experimental Designs, and Treatment-Effect Estimators](https://github.com/atzheng/xp_gym)**  
+**[XP Gym: A Simulation Gym for A/B Testing, Experimental Design, and Treatment-Effect Estimation](https://github.com/atzheng/xp_gym)**  
 with [Andrew Zheng](https://www.sauder.ubc.ca/people/andrew-zheng)  
 
 **[NuSC: A Heuristic Solver for Set Covering Problems](https://github.com/chuanluocs/NuSC-Algorithm)**  
