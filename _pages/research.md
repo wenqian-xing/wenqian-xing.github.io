@@ -24,6 +24,15 @@ Wenqian Xing, Shixiang Zhu, Yao Xie
 **[Optimizing Server Locations in Spatial Queues: Parametric and Non-parametric Bayesian Optimization Approaches](https://arxiv.org/abs/2505.22249)**  
 Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang  
 
+Open-source code
+------
+
+**[XP Gym: An Experiment Gym for Simulation-Based A/B Experiments, Experimental Designs, and Treatment-Effect Estimators](https://github.com/atzheng/xp_gym)**  
+with Andrew Zheng  
+
+**[NuSC: A Heuristic Solver for Set Covering Problems](https://github.com/chuanluocs/NuSC-Algorithm)**  
+with Chuan Luo
+
 Publications
 ------
 
@@ -65,4 +74,4 @@ Chuan Luo, Bo Qiao, Wenqian Xing, Xin Chen et al.
 *AAAI Conference on Artificial Intelligence* 2021  
 
 **[Approximate Dynamic Portfolio Optimization](https://drive.google.com/file/d/1FpNMZYGAt7d78h22qH_yh5ovmmCLd_06/view?usp=sharing)**  
-Master’s thesis, advised by Prof. [Hong Chen](https://scholar.google.com/citations?user=LAGGFe0AAAAJ&hl=en)
+Master’s thesis, advised by Prof. [Hong Chen](https://scholar.google.com/citations?user=LAGGFe0AAAAJ&hl=en)  
