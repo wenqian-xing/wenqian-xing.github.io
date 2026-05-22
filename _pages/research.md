@@ -20,8 +20,8 @@ Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian
 
 **[Generalized Hypercube Queueing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
 Wenqian Xing, Shixiang Zhu, Yao Xie  
-*First Place, Clifford Spiegelman Student Paper Competition, JSM* 2026   
 *Major Revision, Service Science*   
+*First Place, Clifford Spiegelman Student Paper Competition, JSM* 2026   
 
 **[Optimizing Server Locations in Spatial Queues: Parametric and Non-parametric Bayesian Optimization Approaches](https://arxiv.org/abs/2505.22249)**  
 Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang  
