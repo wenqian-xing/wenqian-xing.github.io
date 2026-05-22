@@ -16,6 +16,7 @@ Wenqian Xing, Ramesh Johari
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
 Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian  
 <!-- *NeurIPS ML×OR Workshop* 2025   -->
+*Major Revision, Operations Research*   
 
 **[Generalized Hypercube Queueing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
 Wenqian Xing, Shixiang Zhu, Yao Xie  
@@ -23,6 +24,7 @@ Wenqian Xing, Shixiang Zhu, Yao Xie
 
 **[Optimizing Server Locations in Spatial Queues: Parametric and Non-parametric Bayesian Optimization Approaches](https://arxiv.org/abs/2505.22249)**  
 Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang  
+*Major Revision, Operations Research*   
 
 Publications
 ------
