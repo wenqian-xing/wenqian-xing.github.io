@@ -11,7 +11,7 @@ I’m a third-year Ph.D. student in [Operations Research](https://or.stanford.ed
 
 My research interests lie in stochastic modeling, reinforcement learning, and AI alignment.  
 
-I will join the Amazon Stores Economics and Science (SEAS) team as an intern this incoming summer. Happy to connect in Seattle!
+*I will join the Amazon Stores Economics and Science (SEAS) team as an intern this incoming summer. Happy to connect in Seattle!*
 
 Contact
 ======
