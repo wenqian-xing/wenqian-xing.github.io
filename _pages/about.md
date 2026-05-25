@@ -12,7 +12,7 @@ I’m a third-year Ph.D. student in [Operations Research](https://or.stanford.ed
 My research interests lie in stochastic modeling, reinforcement learning, and AI alignment.  
 
 ## News
-- [May 2026] I will join Amazon's [Stores Economics and Science (SEAS)](https://amazon.jobs/content/en/teams/seas) team as an intern this upcoming summer. Happy to connect in Seattle!
+- May 2026: I will join Amazon's [Stores Economics and Science (SEAS)](https://amazon.jobs/content/en/teams/seas) team as an intern this upcoming summer. Happy to connect in Seattle!
 
 <!--## Contact
 Email: wxing@stanford.edu-->
