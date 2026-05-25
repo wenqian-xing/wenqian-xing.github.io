@@ -14,6 +14,5 @@ My research interests lie in stochastic modeling, reinforcement learning, and AI
 ## News
 - I will join Amazon's [Stores Economics and Science (SEAS)](https://amazon.jobs/content/en/teams/seas) team as an intern this upcoming summer. Happy to connect in Seattle!
 
-Contact
-======
-Email: wxing@stanford.edu
+<!--## Contact
+Email: wxing@stanford.edu-->
