@@ -32,7 +32,6 @@ Publications
 **[Estimation of Treatment Effects under Nonstationarity via the Truncated Policy Gradient Estimator](https://arxiv.org/abs/2506.05308)**  [[Code]](https://github.com/wenqian-xing/Truncated-DQ-Estimator)   
 Ramesh Johari, Tianyi Peng, Wenqian Xing  
 *ICML 2026*   
-<!-- *NeurIPS ML×OR Workshop* 2025   -->
 
 **[Conservative Inference in Switchback Experiments](https://openreview.net/forum?id=psLjdDj7j1)**  [[Code]](https://github.com/wenqian-xing/conservative-inference-switchback-experiments)   
 Jose Blanchet, Peter W. Glynn, Ramesh Johari, Linjia Wu, Wenqian Xing  
@@ -61,10 +60,12 @@ Chuan Luo, Wenqian Xing, Shaowei Cai, Chunming Hu
 **[Predictive Job Scheduling under Uncertain Constraints in Cloud Computing](https://www.ijcai.org/proceedings/2021/499)** [[Code]](https://github.com/wenqian-xing/SB-IJCAI-Paper)  
 Hang Dong, Boshi Wang, Bo Qiao, Wenqian Xing, Chuan Luo et al.  
 *International Joint Conferences on Artificial Intelligence 2021*  
+*Deployed at Microsoft Azure*  
 
 **[Correlation-aware Heuristic Search for Intelligent Virtual Machine Provisioning in Cloud Systems](https://ojs.aaai.org/index.php/AAAI/article/view/17467)**  
 Chuan Luo, Bo Qiao, Wenqian Xing, Xin Chen et al.  
 *AAAI Conference on Artificial Intelligence 2021*  
+*Deployed at Microsoft Azure*  
 
 **[Approximate Dynamic Portfolio Optimization](https://drive.google.com/file/d/1FpNMZYGAt7d78h22qH_yh5ovmmCLd_06/view?usp=sharing)**  
 Master’s thesis, advised by Prof. [Hong Chen](https://scholar.google.com/citations?user=LAGGFe0AAAAJ&hl=en)  
