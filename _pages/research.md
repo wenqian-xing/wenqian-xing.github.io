@@ -32,6 +32,7 @@ Publications
 **[Estimation of Treatment Effects under Nonstationarity via the Truncated Policy Gradient Estimator](https://arxiv.org/abs/2506.05308)**  [[Code]](https://github.com/wenqian-xing/Truncated-DQ-Estimator)   
 Ramesh Johari, Tianyi Peng, Wenqian Xing  
 *ICML 2026*   
+*Deployed at Uber*  
 
 **[Conservative Inference in Switchback Experiments](https://openreview.net/forum?id=psLjdDj7j1)**  [[Code]](https://github.com/wenqian-xing/conservative-inference-switchback-experiments)   
 Jose Blanchet, Peter W. Glynn, Ramesh Johari, Linjia Wu, Wenqian Xing  
