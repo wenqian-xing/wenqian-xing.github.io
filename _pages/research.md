@@ -12,6 +12,7 @@ Preprints
 
 **[Learning to Communicate Under Alignment Uncertainty: A Bayesian Persuasion Bandit Approach](https://drive.google.com/file/d/1ags36HsTmBtxj27sEUnKstaCZYzAgldU/view?usp=sharing)**   
 Wenqian Xing, Ramesh Johari   
+*Incentive-Based AI Alignment Workshop, EC 2026*   
 
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
 Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian  
