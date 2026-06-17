@@ -12,5 +12,5 @@ I’m a third-year Ph.D. student in [Operations Research](https://or.stanford.ed
 My research interests lie in stochastic modeling, reinforcement learning, and AI alignment.  
 
 ## News
-- Jun 2026: I've completed the BlueDot Impact [Technical AI Safety](https://bluedot.org/certification?id=recICCP7DqeAyD4Rn) course!
+- Jun 2026: I've completed [Technical AI Safety](https://bluedot.org/certification?id=recICCP7DqeAyD4Rn) with BlueDot Impact!
 - May 2026: I will join Amazon's [Stores Economics and Science (SEAS)](https://amazon.jobs/content/en/teams/seas) team as an intern this upcoming summer. Happy to connect in Seattle!
