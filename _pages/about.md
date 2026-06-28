@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a forth-year Ph.D. student in [Operations Research](https://or.stanford.edu/) at Stanford University, where I am advised by Prof. [Ramesh Johari](https://web.stanford.edu/~rjohari/), and to work closely with Prof. [Yue Hu](https://gsb-faculty.stanford.edu/yue-hu/) and Prof. [Tianyi Peng](https://tianyipeng.github.io/). I received an M.S. in Operations Research from Columbia University and a B.S.E. in Electrical and Computer Engineering from the University of Michigan–Shanghai Jiao Tong University Joint Institute. Previously, I was a research intern at Microsoft Research Asia.   
+I’m a forth-year Ph.D. student in [Operations Research](https://or.stanford.edu/) at Stanford University, where I am advised by Prof. [Ramesh Johari](https://web.stanford.edu/~rjohari/), and to work closely with Prof. [Yue Hu](https://gsb-faculty.stanford.edu/yue-hu/) and Prof. [Tianyi Peng](https://tianyipeng.github.io/). I received an M.S. in Operations Research from Columbia University and a B.S.E. in Electrical and Computer Engineering from the University of Michigan–Shanghai Jiao Tong University Joint Institute, where I was advised by Prof. [Henry Lam](https://www.engineering.columbia.edu/faculty-staff/directory/henry-lam), Prof. [Hong Chen](https://scholar.google.com/citations?user=LAGGFe0AAAAJ&hl=en), and Prof. [Cheng Hua](https://scholar.google.com/citations?user=NWCZzR8AAAAJ&hl=en). Previously, I was a research intern at Microsoft Research Asia.  
 
 My research interests lie in stochastic modeling, reinforcement learning, and AI alignment.  
 

@@ -68,8 +68,8 @@ Chuan Luo, Bo Qiao, Wenqian Xing, Xin Chen et al.
 *AAAI Conference on Artificial Intelligence 2021*  
 *Deployed at Microsoft Azure*  
 
-**[Approximate Dynamic Portfolio Optimization](https://drive.google.com/file/d/1FpNMZYGAt7d78h22qH_yh5ovmmCLd_06/view?usp=sharing)**  
-Master’s thesis, advised by Prof. [Hong Chen](https://scholar.google.com/citations?user=LAGGFe0AAAAJ&hl=en)  
+<!-- **[Approximate Dynamic Portfolio Optimization](https://drive.google.com/file/d/1FpNMZYGAt7d78h22qH_yh5ovmmCLd_06/view?usp=sharing)**  
+Master’s thesis, advised by Prof. [Hong Chen](https://scholar.google.com/citations?user=LAGGFe0AAAAJ&hl=en)   -->
 
 Open-source code
 ------
