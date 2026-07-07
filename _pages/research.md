@@ -10,6 +10,9 @@ author_profile: false
 Preprints
 ------
 
+**[Attention Limited Reward Learning](https://arxiv.org/abs/2607.04590)**   
+Wenqian Xing
+
 **[Learning to Communicate Under Alignment Uncertainty: A Bayesian Persuasion Bandit Approach](https://drive.google.com/file/d/1ags36HsTmBtxj27sEUnKstaCZYzAgldU/view?usp=sharing)**   
 Wenqian Xing, Ramesh Johari   
 *Incentive-Based AI Alignment Workshop, EC 2026*   
