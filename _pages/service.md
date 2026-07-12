@@ -22,9 +22,10 @@ At UM-SJTU Joint Institute, I have been a teaching assistant for:
 
 
 ## Service
+- Committee Observer, George B. Dantzig Dissertation Award 2026
 - Webmaster, [SNAPP seminar](https://sites.google.com/view/snappseminar/) (2024-2025)
 - Program Committee Member, INFORMS Workshop on Data Science (2024-2025)
-- Session Co-Chair, Experimentation and Interference, INFORMS Annual Meeting 2025
+- Session Chair, Experimentation and Interference, INFORMS Annual Meeting 2025
 
 
 

@@ -78,7 +78,7 @@ Open-source code
 ------
 
 **[XP Gym: An Experimentation Gym for Designs and Estimators](https://github.com/atzheng/xp_gym)**  
-with [Andrew Zheng](https://www.sauder.ubc.ca/people/andrew-zheng)  
+Developed with Andrew Zheng
 
 **[NuSC: An Effective Solver for Set Covering Problem](https://github.com/chuanluocs/NuSC-Algorithm)**  
-with [Chuan Luo](https://chuanluocs.github.io/)
+Developed with Chuan Luo
