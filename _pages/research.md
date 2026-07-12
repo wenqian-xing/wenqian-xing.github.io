@@ -10,9 +10,6 @@ author_profile: false
 Preprints
 ------
 
-**[Attention Limited Reward Learning](https://arxiv.org/abs/2607.04590)**   
-Wenqian Xing
-
 **[Learning to Communicate Under Alignment Uncertainty: A Bayesian Persuasion Bandit Approach](https://drive.google.com/file/d/1ags36HsTmBtxj27sEUnKstaCZYzAgldU/view?usp=sharing)**   
 Wenqian Xing, Ramesh Johari   
 *Incentive-Based AI Alignment Workshop, EC 2026*   
@@ -29,6 +26,9 @@ Wenqian Xing, Shixiang Zhu, Yao Xie
 **[Optimizing Server Locations in Spatial Queues: Parametric and Non-parametric Bayesian Optimization Approaches](https://arxiv.org/abs/2505.22249)**  
 Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang  
 *Major Revision, Operations Research*   
+
+**[Attention Limited Reward Learning](https://arxiv.org/abs/2607.04590)**   
+Wenqian Xing
 
 Publications
 ------
