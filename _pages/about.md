@@ -13,4 +13,4 @@ My research interests lie in stochastic modeling, reinforcement learning, and AI
 
 ## News
 - Jun 2026: I've completed [Technical AI Safety](https://bluedot.org/certification?id=recICCP7DqeAyD4Rn) with BlueDot Impact!
-- May 2026: I will join Amazon's [Stores Economics and Science](https://amazon.jobs/content/en/teams/seas) (Core AI) team as an intern this summer. Happy to connect in Seattle!
+- May 2026: I will join Amazon's Stores Economics and Science (Core AI) team as an intern this summer. Happy to connect in Seattle!
