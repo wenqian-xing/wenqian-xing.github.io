@@ -17,6 +17,7 @@ Wenqian Xing, Ramesh Johari
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
 Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian  
 *Major Revision, Operations Research*   
+*Finalist, 2026 INFORMS Service Science Best Student Paper Competition*
 
 **[Generalized Hypercube Queueing Models with Overlapping Service Regions](https://arxiv.org/abs/2304.02824)**   
 Wenqian Xing, Shixiang Zhu, Yao Xie  
