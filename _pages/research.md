@@ -10,6 +10,9 @@ author_profile: false
 Preprints
 ------
 
+**[Fast Access or Familiar Care? Learning-Based Capacity Allocation with Endogenous Patient Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7246479)**  
+Wenqian Xing, Yi Zhang, Yue Hu  
+
 **[Learning to Communicate Under Alignment Uncertainty: A Bayesian Persuasion Bandit Approach](https://drive.google.com/file/d/1ags36HsTmBtxj27sEUnKstaCZYzAgldU/view?usp=sharing)**   
 Wenqian Xing, Ramesh Johari   
 *Incentive-Based AI Alignment Workshop, EC 2026*   
@@ -29,7 +32,7 @@ Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang
 *Major Revision, Operations Research*   
 
 **[Attention Limited Reward Learning](https://arxiv.org/abs/2607.04590)**   
-Wenqian Xing
+Wenqian Xing  
 
 Publications
 ------
