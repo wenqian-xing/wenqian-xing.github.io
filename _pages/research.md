@@ -37,7 +37,7 @@ Wenqian Xing
 Publications
 ------
 
-**[Estimation of Treatment Effects under Nonstationarity via the Truncated Policy Gradient Estimator](https://arxiv.org/abs/2506.05308)**  [[Code]](https://github.com/wenqian-xing/Truncated-DQ-Estimator)   
+**[Estimation of Treatment Effects under Nonstationarity via the Truncated Policy Gradient Estimator](https://arxiv.org/abs/2506.05308)**  [[Code]](https://github.com/wenqian-xing/Truncated-DQ-Estimator)    
 Ramesh Johari, Tianyi Peng, Wenqian Xing  
 *ICML 2026*   
 
@@ -65,12 +65,12 @@ Wenqian Xing, Cheng Hua
 Chuan Luo, Wenqian Xing, Shaowei Cai, Chunming Hu  
 *IEEE Transactions on Cybernetics 2022*  
 
-**[Predictive Job Scheduling under Uncertain Constraints in Cloud Computing](https://www.ijcai.org/proceedings/2021/499)** [[Code]](https://github.com/wenqian-xing/SB-IJCAI-Paper)  
+**[Predictive Job Scheduling under Uncertain Constraints in Cloud Computing](https://www.ijcai.org/proceedings/2021/499)** [[Code]](https://github.com/wenqian-xing/SB-IJCAI-Paper) [[Blog]](https://www.microsoft.com/en-us/research/blog/building-toward-more-autonomous-and-proactive-cloud-technologies-with-ai/)
 Hang Dong, Boshi Wang, Bo Qiao, Wenqian Xing, Chuan Luo et al.  
 *International Joint Conferences on Artificial Intelligence 2021*  
 *Deployed at Microsoft Azure*  
 
-**[Correlation-aware Heuristic Search for Intelligent Virtual Machine Provisioning in Cloud Systems](https://ojs.aaai.org/index.php/AAAI/article/view/17467)**  
+**[Correlation-aware Heuristic Search for Intelligent Virtual Machine Provisioning in Cloud Systems](https://ojs.aaai.org/index.php/AAAI/article/view/17467)**  [[Blog]](https://www.microsoft.com/en-us/research/blog/cloud-intelligence-aiops-infusing-ai-into-cloud-computing-systems/)
 Chuan Luo, Bo Qiao, Wenqian Xing, Xin Chen et al.  
 *AAAI Conference on Artificial Intelligence 2021*  
 *Deployed at Microsoft Azure*  
@@ -78,11 +78,8 @@ Chuan Luo, Bo Qiao, Wenqian Xing, Xin Chen et al.
 <!-- **[Approximate Dynamic Portfolio Optimization](https://drive.google.com/file/d/1FpNMZYGAt7d78h22qH_yh5ovmmCLd_06/view?usp=sharing)**  
 Master’s thesis, advised by Prof. [Hong Chen](https://scholar.google.com/citations?user=LAGGFe0AAAAJ&hl=en)   -->
 
-Open-source code
+Packages
 ------
 
-**[XP Gym: An Experimentation Gym for Designs and Estimators](https://github.com/atzheng/xp_gym)**  
-Developed with Andrew Zheng
-
-**[NuSC: An Effective Solver for Set Covering Problem](https://github.com/chuanluocs/NuSC-Algorithm)**  
-Developed with Chuan Luo
+**[XP Gym](https://github.com/atzheng/xp_gym)** (with [Andrew Zheng](https://atzheng.github.io/)) 
+XP Gym is a modular, high-performance framework for running experiments that compare two policies (A and B) across a range of environments while evaluating and benchmarking different treatment effect estimators.  
