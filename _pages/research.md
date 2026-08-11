@@ -81,5 +81,5 @@ Master’s thesis, advised by Prof. [Hong Chen](https://scholar.google.com/citat
 Packages
 ------
 
-**[XP Gym](https://github.com/atzheng/xp_gym)** (with [Andrew Zheng](https://atzheng.github.io/)) 
+**[XP Gym](https://github.com/atzheng/xp_gym)** (led by [Andrew Zheng](https://atzheng.github.io/))   
 XP Gym is a modular, high-performance framework for running experiments that compare two policies (A and B) across a range of environments while evaluating and benchmarking different treatment effect estimators.  
