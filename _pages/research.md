@@ -65,18 +65,15 @@ Wenqian Xing, Cheng Hua
 Chuan Luo, Wenqian Xing, Shaowei Cai, Chunming Hu  
 *IEEE Transactions on Cybernetics 2022*  
 
-**[Predictive Job Scheduling under Uncertain Constraints in Cloud Computing](https://www.ijcai.org/proceedings/2021/499)** [[Code]](https://github.com/wenqian-xing/SB-IJCAI-Paper) [[Blog]](https://www.microsoft.com/en-us/research/blog/building-toward-more-autonomous-and-proactive-cloud-technologies-with-ai/)
+**[Predictive Job Scheduling under Uncertain Constraints in Cloud Computing](https://www.ijcai.org/proceedings/2021/499)** [[Code]](https://github.com/wenqian-xing/SB-IJCAI-Paper) [[Blog]](https://www.microsoft.com/en-us/research/blog/building-toward-more-autonomous-and-proactive-cloud-technologies-with-ai/)  
 Hang Dong, Boshi Wang, Bo Qiao, Wenqian Xing, Chuan Luo et al.  
 *International Joint Conferences on Artificial Intelligence 2021*  
 *Deployed at Microsoft Azure*  
 
-**[Correlation-aware Heuristic Search for Intelligent Virtual Machine Provisioning in Cloud Systems](https://ojs.aaai.org/index.php/AAAI/article/view/17467)**  [[Blog]](https://www.microsoft.com/en-us/research/blog/cloud-intelligence-aiops-infusing-ai-into-cloud-computing-systems/)
+**[Correlation-aware Heuristic Search for Intelligent Virtual Machine Provisioning in Cloud Systems](https://ojs.aaai.org/index.php/AAAI/article/view/17467)**  [[Blog]](https://www.microsoft.com/en-us/research/blog/cloud-intelligence-aiops-infusing-ai-into-cloud-computing-systems/)  
 Chuan Luo, Bo Qiao, Wenqian Xing, Xin Chen et al.  
 *AAAI Conference on Artificial Intelligence 2021*  
 *Deployed at Microsoft Azure*  
-
-<!-- **[Approximate Dynamic Portfolio Optimization](https://drive.google.com/file/d/1FpNMZYGAt7d78h22qH_yh5ovmmCLd_06/view?usp=sharing)**  
-Master’s thesis, advised by Prof. [Hong Chen](https://scholar.google.com/citations?user=LAGGFe0AAAAJ&hl=en)   -->
 
 Packages
 ------
