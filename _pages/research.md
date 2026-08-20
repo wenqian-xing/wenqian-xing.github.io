@@ -7,7 +7,7 @@ author_profile: false
 
 {% include base_path %}
 
-Preprints
+Working Papers
 ------
 
 **[Fast Access or Familiar Care? Learning-Based Capacity Allocation with Endogenous Patient Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7246479)**  
@@ -30,9 +30,6 @@ Wenqian Xing, Shixiang Zhu, Yao Xie
 **[Optimizing Server Locations in Spatial Queues: Parametric and Non-parametric Bayesian Optimization Approaches](https://arxiv.org/abs/2505.22249)**  
 Cheng Hua, Arthur J. Swersey, Wenqian Xing, Yi Zhang  
 *Major Revision, Operations Research*   
-
-**[Attention Limited Reward Learning](https://arxiv.org/abs/2607.04590)**   
-Wenqian Xing  
 
 Publications
 ------
