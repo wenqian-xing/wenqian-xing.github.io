@@ -30,7 +30,12 @@
    --------------------------------------------------------------- */
 *, *::before, *::after { box-sizing: border-box; }
 
-html { -webkit-text-size-adjust: 100%; }
+html {
+  -webkit-text-size-adjust: 100%;
+  /* Reserve the scrollbar gutter so the centered wrapper does not shift
+     between short pages (no scrollbar) and long ones. */
+  scrollbar-gutter: stable;
+}
 
 body {
   margin: 0;
@@ -100,9 +105,11 @@ a:hover { border-bottom-color: currentColor; }
   gap: 22px;
   font-size: 0.9375rem;
 }
-.site-nav a { color: var(--fg-muted); }
+/* Constant weight across states: bolding the current link would change its
+   width and nudge the whole right-anchored nav sideways. */
+.site-nav a { color: var(--fg-muted); font-weight: 500; }
 .site-nav a:hover { color: var(--accent); }
-.site-nav a[aria-current="page"] { color: var(--fg); font-weight: 500; }
+.site-nav a[aria-current="page"] { color: var(--fg); }
 
 /* ---------------------------------------------------------------
    Home intro
