@@ -1,0 +1,48 @@
+# Site
+title           : "Wenqian Xing"
+title_separator : "·"
+description     : "Ph.D. student in Operations Research at Stanford University, working on stochastic modeling and decision-making under uncertainty."
+url             : https://wenqian-xing.github.io
+baseurl         : ""
+locale          : "en-US"
+timezone        : Etc/UTC
+
+# Author — drives the home page intro and the footer contact links.
+author:
+  name          : "Wenqian Xing"
+  avatar        : "wenqian_profile.jpg"
+  bio           : "Ph.D. Student in Operations Research, Stanford University"
+  email         : "wxing@stanford.edu"
+  googlescholar : "https://scholar.google.com/citations?user=MMPGRvUAAAAJ&hl=en"
+  github        : "wenqian-xing"
+  linkedin      : "wenqianxing"
+
+# Build
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor
+
+markdown    : kramdown
+highlighter : rouge
+permalink   : /:title/
+
+kramdown:
+  input     : GFM
+  auto_ids  : true
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page

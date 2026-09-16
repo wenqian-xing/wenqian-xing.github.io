@@ -1,0 +1,33 @@
+---
+title: "Teaching & Service"
+permalink: /service/
+---
+
+## Teaching
+
+At Stanford University, I have been a teaching assistant for:
+- MS&E 226 Fundamentals of Data Science (Fall 2025, Fall 2026)
+- OIT 245 Optimization and Simulation Modeling (Fall 2024)
+
+At Columbia University, I have been a teaching assistant for:
+- IEOR 4106 Stochastic Models (Spring 2022, Fall 2022)
+- IEOR 4407 Game Theoretical Models (Fall 2022)
+
+At UM-SJTU Joint Institute, I have been a teaching assistant for:
+- VG 441 Optimization Methods in Supply Chain (Summer 2020)
+
+
+
+## Service
+- Observer, George B. Dantzig Dissertation Award (2026)
+- Program Committee Member, INFORMS Workshop on Data Science (2024-2026)
+- Webmaster, [SNAPP seminar](https://sites.google.com/view/snappseminar/) (2024-2025)
+- Session Chair, Experimentation and Interference, INFORMS Annual Meeting (2025)
+
+
+
+## Reviewer
+- Neurips, ICML, AISTATS, AAAI
+- Production and Operations Management
+- IEEE TNNLS
+- Amazon Machine Learning Conference (AMLC) Workshops
