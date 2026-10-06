@@ -13,9 +13,10 @@ _config.yml            Site settings, author details, build options
 _data/navigation.yml   Header links
 _layouts/              default (shell), home (front page), page (everything else)
 _includes/             head, header, footer
-_pages/                about (front page), research, service, 404
+_pages/                about (front page), research, service, cv, 404
 assets/css/main.css    The whole stylesheet
 images/                Profile photo and favicon
+CV_Xing.pdf            The CV shown on the CV page
 ```
 
 ## Editing
@@ -26,6 +27,8 @@ images/                Profile photo and favicon
   author list, then italic venue and award lines. Section headings (`## Working
   Papers`) render as small caps rules.
 - **Teaching & Service** — `_pages/service.md`.
+- **CV** — replace `CV_Xing.pdf` with the new version (same file name);
+  `_pages/cv.md` embeds it and links to it.
 - **Header links** — `_data/navigation.yml`.
 - **Contact links in the footer** — the `author:` block in `_config.yml`; each one
   is omitted if left blank.

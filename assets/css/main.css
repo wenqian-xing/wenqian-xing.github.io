@@ -207,6 +207,25 @@ hr {
 img { max-width: 100%; height: auto; }
 
 /* ---------------------------------------------------------------
+   CV
+   --------------------------------------------------------------- */
+.cv-download { font-size: 0.9375rem; }
+
+/* Sized like a letter page, so the first page shows whole at full width. */
+.cv-embed {
+  display: block;
+  width: 100%;
+  aspect-ratio: 8.5 / 11;
+  border: 1px solid var(--rule);
+}
+
+/* Too narrow to read inline, and mobile browsers mostly can't embed PDFs;
+   the download link above opens the phone's own viewer instead. */
+@media (max-width: 34rem) {
+  .cv-embed { display: none; }
+}
+
+/* ---------------------------------------------------------------
    Footer
    --------------------------------------------------------------- */
 .site-footer {
