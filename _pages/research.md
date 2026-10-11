@@ -6,12 +6,17 @@ permalink: /research/
 Working Papers
 ------
 
+**Baseline-Adjusted Truncated Policy Gradients for Rapid-Switching Experiments**  
+William McCloskey, Wenqian Xing, Ashwinkumar Badanidiyuru, Eric Becker, Chris Harris, Stefan Wager, Ramesh Johari  
+*2026 CODE@MIT*
+
 **[Fast Access or Familiar Care? Learning-Based Capacity Allocation with Endogenous Patient Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7246479)**  
 Wenqian Xing, Yi Zhang, Yue Hu  
 
 **[Learning to Communicate Under Alignment Uncertainty: A Bayesian Persuasion Bandit Approach](https://drive.google.com/file/d/1ags36HsTmBtxj27sEUnKstaCZYzAgldU/view?usp=sharing)**   
 Wenqian Xing, Ramesh Johari   
-*Incentive-Based AI Alignment Workshop, EC 2026*   
+*ML×OR Workshop, NeurIPS 2026*   
+*Finalist, 2026 DMDA Workshop Best Paper Competition (Theoretical Track)*
 
 **[Online Learning for Dynamic Service Mode Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355)**   
 Wenqian Xing, Yue Hu, Anand Kalvit, Vahid Sarhangian  
@@ -32,6 +37,7 @@ Publications
 
 **[Estimation of Treatment Effects under Nonstationarity via the Truncated Policy Gradient Estimator](https://arxiv.org/abs/2506.05308)**  [[Code]](https://github.com/wenqian-xing/Truncated-DQ-Estimator)    
 Ramesh Johari, Tianyi Peng, Wenqian Xing  
+*ML×OR Workshop, NeurIPS 2025*   
 *ICML 2026*   
 
 **[Conservative Inference in Switchback Experiments](https://openreview.net/forum?id=psLjdDj7j1)**  [[Code]](https://github.com/wenqian-xing/conservative-inference-switchback-experiments)   
