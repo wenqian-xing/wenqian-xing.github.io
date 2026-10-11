@@ -12,6 +12,7 @@ William McCloskey, Wenqian Xing, Ashwinkumar Badanidiyuru, Eric Becker, Chris Ha
 
 **[Fast Access or Familiar Care? Learning-Based Capacity Allocation with Endogenous Patient Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7246479)**  
 Wenqian Xing, Yi Zhang, Yue Hu  
+*Under review at Management Science*
 
 **[Learning to Communicate Under Alignment Uncertainty: A Bayesian Persuasion Bandit Approach](https://drive.google.com/file/d/1ags36HsTmBtxj27sEUnKstaCZYzAgldU/view?usp=sharing)**   
 Wenqian Xing, Ramesh Johari   
