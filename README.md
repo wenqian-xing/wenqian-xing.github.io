@@ -16,7 +16,7 @@ _includes/             head, header, footer
 _pages/                about (front page), research, service, cv, 404
 assets/css/main.css    The whole stylesheet
 images/                Profile photo and favicon
-CV_Xing.pdf            The CV shown on the CV page
+CV/                    CV_Xing.tex (source) and CV_Xing.pdf (shown on the CV page)
 ```
 
 ## Editing
@@ -27,8 +27,10 @@ CV_Xing.pdf            The CV shown on the CV page
   author list, then italic venue and award lines. Section headings (`## Working
   Papers`) render as small caps rules.
 - **Teaching & Service** — `_pages/service.md`.
-- **CV** — replace `CV_Xing.pdf` with the new version (same file name);
-  `_pages/cv.md` embeds it and links to it.
+- **CV** — edit `CV/CV_Xing.tex`, recompile, and replace `CV/CV_Xing.pdf` with
+  the new version (same file name); `_pages/cv.md` embeds it and links to it.
+  Keep its papers and service entries in step with the Research and Teaching &
+  Service pages.
 - **Header links** — `_data/navigation.yml`.
 - **Contact links in the footer** — the `author:` block in `_config.yml`; each one
   is omitted if left blank.

@@ -1,0 +1,232 @@
+% --- LaTeX CV Template - S. Venkatraman ---
+%
+% Papers, venues, and service entries mirror the website
+% (_pages/research.md and _pages/service.md); update both together.
+
+\documentclass[letterpaper, 10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[colorlinks=true, urlcolor=Blue, linkcolor=red]{hyperref}
+\usepackage{longtable, hyphenat}
+
+% --- Page layout settings ---
+
+\usepackage[left=0.5in, right=0.7in, bottom=.6in, top=.6in]{geometry}
+
+% Set font to Libertine, including math support
+\usepackage{libertine}
+\usepackage[libertine]{newtxmath}
+
+% Remove page numbering
+\pagenumbering{gobble}
+
+% The only footnote is the author-ordering note: star mark, no rule
+\renewcommand{\thefootnote}{$\star$}
+\renewcommand{\footnoterule}{\vspace*{-3pt}}
+
+% Section label in the left column
+\newcommand{\cvsection}[1]{\nohyphens{\scshape #1}}
+
+% Space after an entry and after a section. Tune these to keep the CV on two pages.
+% Rows inside an entry end in \\* so that an entry is never split across pages.
+\newlength{\entrysep}   \setlength{\entrysep}{6pt}
+\newlength{\sectionsep} \setlength{\sectionsep}{12pt}
+
+% --- Document starts here ---
+
+\begin{document}
+
+% --- Name and contact information ---
+
+\noindent
+\begin{minipage}[t]{0.62\textwidth}
+    {\fontsize{32pt}{32pt}\selectfont\scshape Wenqian Xing}
+\end{minipage}
+\begin{minipage}[t]{0.357\textwidth}
+    \raggedleft
+    \vspace{-1.05cm}
+    Phone: (+1) 646-492-2794 \\
+    Email: \href{mailto:wxing@stanford.edu}{wxing@stanford.edu} \\
+    Website: \href{https://wenqian-xing.github.io}{wenqian-xing.github.io}
+\end{minipage}
+
+\vspace{.4cm}
+
+% Set spacing between columns
+\setlength{\tabcolsep}{8pt}
+
+% Set the width of each column
+\begin{longtable}{p{1.in}p{5.8in}}
+
+% --- Section: Research interests ---
+
+\cvsection{Research\newline Interests}
+& My research interests broadly lie in stochastic modeling and decision-making under uncertainty, with a focus on causal inference, reinforcement learning, and AI evaluation and alignment. \\[\sectionsep]
+
+% --- Section: Education ---
+
+\cvsection{Education}
+& \textbf{Stanford University} \hfill 2023 -- 2028 \\*
+& Ph.D. in Operations Research \\*
+& M.S. in Management Science and Engineering \\[\entrysep]
+
+& \textbf{Columbia University} \hfill 2021 -- 2023 \\*
+& M.S. in Operations Research \\[\entrysep]
+
+& \textbf{University of Michigan -- Shanghai Jiao Tong University} \hfill 2016 -- 2021 \\*
+& M.S. in Financial Engineering \\*
+& B.S. in Electrical and Computer Engineering; B.S. minor in Data Science \\[\sectionsep]
+
+% --- Section: Preprints ---
+
+\cvsection{Preprints}
+& [1] {Baseline-Adjusted Truncated Policy Gradients for Rapid-Switching Experiments} \\*
+& W.~McCloskey, W.~Xing, A.~Badanidiyuru, E.~Becker, C.~Harris, S.~Wager, R.~Johari \\*
+& \textit{CODE@MIT 2026, Deployed at Uber} \\[\entrysep]
+
+& [2] \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7246479}{Fast Access or Familiar Care? Learning-Based Capacity Allocation with Endogenous Patient Choice} \\*
+& ($\alpha$-$\beta$) W.~Xing, Y.~Zhang, Y.~Hu \\*
+& Under review at \textit{Management Science} \\[\entrysep]
+
+& [3] \href{https://drive.google.com/file/d/1ags36HsTmBtxj27sEUnKstaCZYzAgldU/view?usp=sharing}{Learning to Communicate Under Alignment Uncertainty: A Bayesian Persuasion Bandit Approach} \\*
+& W.~Xing, R.~Johari \\*
+& \textit{ML×OR Workshop, NeurIPS 2026} \\*
+& \textit{Finalist, 2026 DMDA Workshop Best Paper Competition (Theoretical Track)} \\[\entrysep]
+
+& [4] \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123355}{Online Learning for Dynamic Service Mode Control} \\*
+& W.~Xing, Y.~Hu, A.~Kalvit, V.~Sarhangian \\*
+& Major revision at \textit{Operations Research} \\*
+& \textit{Finalist, 2026 INFORMS Service Science Best Student Paper Competition} \\[\entrysep]
+
+& [5] \href{https://arxiv.org/abs/2304.02824}{Generalized Hypercube Queueing Models with Overlapping Service Regions} \\*
+& W.~Xing, S.~Zhu, Y.~Xie \\*
+& Major revision at \textit{Service Science} \\*
+& \textit{First Place, Clifford Spiegelman Student Paper Competition, JSM 2026} \\[\entrysep]
+
+& [6] \href{https://arxiv.org/abs/2505.22249}{Optimizing Server Locations in Spatial Queues: Parametric and Non-parametric Bayesian Optimization Approaches} \\*
+& ($\alpha$-$\beta$) C.~Hua, A.~J.~Swersey, W.~Xing, Y.~Zhang \\*
+& Major revision at \textit{Operations Research} \\[\sectionsep]
+
+% --- Section: Publications ---
+
+\cvsection{Publications\footnote{\color{black}$\alpha$-$\beta$ indicates alphabetical ordering of authors.}}
+& [1] \href{https://arxiv.org/abs/2506.05308}{Estimation of Treatment Effects under Nonstationarity via the Truncated Policy Gradient Estimator} \\*
+& ($\alpha$-$\beta$) R.~Johari, T.~Peng, W.~Xing \\*
+& Under review at \textit{Stochastic Systems} \\*
+& \textit{ICML 2026} \\*
+& \textit{ML×OR Workshop, NeurIPS 2025} \\[\entrysep]
+
+& [2] \href{https://openreview.net/forum?id=psLjdDj7j1}{Conservative Inference in Switchback Experiments} \\*
+& ($\alpha$-$\beta$) J.~Blanchet, P.~W.~Glynn, R.~Johari, L.~Wu, W.~Xing \\*
+& \textit{AISTATS 2026} \\[\entrysep]
+
+& [3] \href{https://doi.org/10.1609/aaai.v39i27.35074}{Black-Box Optimization with Implicit Constraints for Public Policy} \\*
+& W.~Xing, J.~Lee, C.~Liu, S.~Zhu \\*
+& \textit{Oral Paper (4.9\%), AAAI 2025} \\*
+& \textit{Refereed Paper, INFORMS Optimization Society Conference 2024} \\[\entrysep]
+
+& [4] \href{https://journals.sagepub.com/doi/10.1177/10591478251369598}{Multi-Priority Patient Transfer Under Ambulance Offload Delay} \\*
+& W.~Xing, C.~Hua \\*
+& \textit{Production and Operations Management 2025} \\*
+& \textit{Finalist, Best Student Paper Competition, POMS-China International Conference 2024} \\*
+& \textit{Second Place, Best Student Paper Competition, INFORMS Conference on Service Science 2021} \\[\entrysep]
+
+& [5] \href{https://link.springer.com/chapter/10.1007/978-3-031-15644-1_32}{Optimal Unit Locations in Emergency Service Systems with Bayesian Optimization} \\*
+& W.~Xing, C.~Hua \\*
+& \textit{Finalist, Best Paper Competition, INFORMS Conference on Service Science 2022} \\*
+& \textit{Finalist, Best Student Paper Competition, POMS-HK International Conference 2022} \\[\entrysep]
+
+& [6] \href{https://ieeexplore.ieee.org/document/9877844}{NuSC: An Effective Local Search Algorithm for Solving the Set Covering Problem} \\*
+& C.~Luo, W.~Xing, S.~Cai, C.~Hu \\*
+& \textit{IEEE Transactions on Cybernetics 2022} \\[\entrysep]
+
+& [7] \href{https://www.ijcai.org/proceedings/2021/499}{Predictive Job Scheduling under Uncertain Constraints in Cloud Computing} \\*
+& H.~Dong, B.~Wang, B.~Qiao, W.~Xing, C.~Luo, S.~Qin, Q.~Lin, D.~Zhang, G.~Virdi, T.~Moscibroda \\*
+& \textit{IJCAI 2021, Deployed at Microsoft Azure} \\[\entrysep]
+
+& [8] \href{https://ojs.aaai.org/index.php/AAAI/article/view/17467}{Correlation-Aware Heuristic Search for Intelligent Virtual Machine Provisioning in Cloud Systems} \\*
+& C.~Luo, B.~Qiao, W.~Xing, X.~Chen, P.~Zhao, C.~Du, R.~Yao, H.~Zhang, W.~Wu, S.~Cai, B.~He, S.~Rajmohan, Q.~Lin \\*
+& \textit{AAAI 2021, Deployed at Microsoft Azure} \\[\sectionsep]
+
+% --- Section: Teaching experience (off: it is on the website, but pushes the CV to a third page) ---
+
+% \cvsection{Teaching}
+% & \textbf{Stanford University} --- \textit{Course Assistant} \\*
+% \cvsection{Experience}
+% & MS\&E 226 Fundamentals of Data Science (Fall 2025, Fall 2026); OIT 245 Optimization and Simulation Modeling (Fall 2024) \\[\entrysep]
+%
+% & \textbf{Columbia University} --- \textit{Course Assistant} \\*
+% & IEOR 4106 Stochastic Models (Spring 2022, Fall 2022); IEOR 4407 Game Theoretical Models (Fall 2022) \\[\entrysep]
+%
+% & \textbf{UM-SJTU Joint Institute} --- \textit{Teaching Assistant} \\*
+% & VG 441 Optimization Methods in Supply Chain (Summer 2020) \\[\sectionsep]
+
+% --- Section: Research experience (off) ---
+
+% \cvsection{Research}
+% & \textbf{Carnegie Mellon University} \hfill Jun 2023 -- Sep 2023 \\*
+% \cvsection{Experience}
+% & \textit{Research Assistant} \\*
+% & -- Designed a hyperlattice queueing model to support overlapping services \\*
+% & -- Developed a Bayesian optimization algorithm for police redistricting in Atlanta \\[\entrysep]
+%
+% & \textbf{Columbia University} \hfill May 2022 -- Apr 2023 \\*
+% & \textit{Research Assistant} \& \textit{Data Analyst Intern} \\*
+% & -- Simulated and optimized ambulance dispatching policies for the FDNY \\*
+% & -- Designed a course assistant matching algorithm for the IEOR department \\[\sectionsep]
+
+% --- Section: Industry experience ---
+
+\cvsection{Industrial}
+& \textbf{Amazon} \hfill Jun 2026 -- Sep 2026 \\*
+\cvsection{Experiences}
+& \textit{Applied Scientist Intern, Amazon Core AI} \\*
+& -- Conducted research on multi-agent decision-making for Amazon Stores \\[\entrysep]
+
+& \textbf{Millennium Management} \hfill Aug 2021 -- Oct 2021 \\*
+& \textit{Quantitative Research Intern, WorldQuant} \\*
+& -- Sought trading signals using abnormal data in financial markets \\[\entrysep]
+
+& \textbf{Cardinal Operations} \hfill Jul 2021 -- Aug 2021 \\*
+& \textit{Algorithm Research Intern} \\*
+& -- Applied and tested the COPT mathematical optimization solver \\[\entrysep]
+
+& \textbf{Microsoft} \hfill Mar 2020 -- Jul 2021 \\*
+& \textit{Research Intern, Microsoft Research Asia} \\*
+& -- Conducted research on online resource allocation for Microsoft Azure \\*
+& -- Developed heuristic solvers for NP-hard problems, e.g., SAT, MAXSAT, and Set Covering \\[\entrysep]
+
+& \textbf{Intel} \hfill Sep 2019 -- Dec 2019 \\*
+& \textit{Capstone Project, Intel APAC R\&D} \\*
+& -- Completed bachelor's thesis, ``Deep Learning Foundation in FFmpeg'' \\[\sectionsep]
+
+% --- Section: Awards ---
+
+\cvsection{Awards}
+& Student Scholarship, INFORMS Workshop on Data Science \hfill 2022, 2024 \\
+& MS\&E Graduate Fellowship, Stanford University \hfill 2023 \\
+& IEOR Graduate Fellowship, Columbia University \hfill 2022 \\
+& Professional Development Scholarship, Columbia University \hfill 2022 \\
+& Outstanding Graduate Award, Shanghai Ministry of Education \hfill 2021 \\
+& Future Talent Award, Microsoft Research \hfill 2020 \\[\sectionsep]
+
+% --- Section: Service ---
+
+\cvsection{Service}
+& Committee Observer, George B. Dantzig Dissertation Award \\
+& Program Committee Member, INFORMS Workshop on Data Science \\
+& Webmaster, Stochastic Networks, Applied Probability, and Performance (SNAPP) Seminar Series \\
+& Session Chair, ``Experimentation and Interference'', INFORMS Annual Meeting 2025 \\
+& Reviewer, \textit{NeurIPS, ICML, AAAI, AISTATS, IEEE Transactions on Neural Networks and Learning Systems, Production and Operations Management, Amazon Machine Learning Conference}
+
+% --- Section: Skills (off) ---
+
+% \\[\sectionsep]
+% \cvsection{Skills}
+% & Programming Languages: Python, C/C++/C\#, MATLAB, Julia, R \\
+% & Quantitative Training: Jane Street and Optiver Trading Camps; ARPM Certification; CFA Level I
+
+% --- End of CV! ---
+
+\end{longtable}
+\end{document}

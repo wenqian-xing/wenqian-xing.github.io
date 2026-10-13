@@ -27,7 +27,7 @@ At UM-SJTU Joint Institute, I have been a teaching assistant for:
 
 
 ## Reviewer
-- Neurips, ICML, AISTATS, AAAI
+- NeurIPS, ICML, AISTATS, AAAI
 - Production and Operations Management
 - IEEE TNNLS
 - Amazon Machine Learning Conference (AMLC) Workshops

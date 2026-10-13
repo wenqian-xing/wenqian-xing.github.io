@@ -3,7 +3,7 @@ title: "CV"
 permalink: /cv/
 ---
 
-{% assign cv_pdf = '/CV_Xing.pdf' | relative_url %}
+{% assign cv_pdf = '/CV/CV_Xing.pdf' | relative_url %}
 
 <p class="cv-download"><a href="{{ cv_pdf }}">Download CV (PDF)</a></p>
 
