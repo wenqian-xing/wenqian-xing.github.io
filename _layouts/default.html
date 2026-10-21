@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0, 2 | default: 'en' }}">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  <div class="wrapper">
+    {% include header.html %}
+    <main id="content" class="content">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </div>
+</body>
+</html>

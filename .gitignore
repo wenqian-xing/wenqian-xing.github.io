@@ -1,0 +1,11 @@
+# Jekyll build output and caches
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Resolved locally, not committed
+Gemfile.lock
+
+# macOS
+.DS_Store
