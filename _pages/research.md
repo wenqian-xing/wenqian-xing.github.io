@@ -9,7 +9,7 @@ Working Papers
 **[Knowing When to Intervene: Causal Evaluation of AI Agents](https://arxiv.org/abs/2611.09792)**  
 A. Sawarni, W. Xing, T. Zrnic, R. Johari, V. Syrgkanis  
 
-**Augmented Truncated Policy Gradients for Quickback Experiments**  
+**[Augmented Truncated Policy Gradients for Quickback Experiments](https://ide.mit.edu/events/2026-conference-on-digital-experimentation-mit-codemit/)**  
 W. McCloskey, W. Xing, A. Badanidiyuru, E. Becker, C. Harris, S. Wager, R. Johari  
 *CODE@MIT 2026*  
 *Deployed at Uber*
