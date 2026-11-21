@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div class="intro">
+  {% if site.author.avatar %}
+    <img class="avatar" src="{{ '/images/' | append: site.author.avatar | relative_url }}"
+         alt="{{ site.author.name }}" width="296" height="296">
+  {% endif %}
+  <div class="intro-body">
+    <h1 class="intro-name">{{ site.author.name }}</h1>
+    {% if site.author.bio %}<p class="intro-bio">{{ site.author.bio }}</p>{% endif %}
+    {{ content }}
+  </div>
+</div>

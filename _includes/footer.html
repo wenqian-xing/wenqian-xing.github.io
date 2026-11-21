@@ -1,0 +1,9 @@
+<footer class="site-footer">
+  <ul class="contact">
+    {% if site.author.email %}<li><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>{% endif %}
+    {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>{% endif %}
+    {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>{% endif %}
+    {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/">LinkedIn</a></li>{% endif %}
+  </ul>
+  <p class="colophon">&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}</p>
+</footer>
